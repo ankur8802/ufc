@@ -165,7 +165,10 @@ top:-25px!important;
 }
 @media only screen and (max-width: 991px) {
     
-   
+    .br-l-none-991
+    {
+      border:none !important;
+    }
     .hide-nav
     {
     	display: none;
