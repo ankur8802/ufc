@@ -432,8 +432,8 @@ video {
 
 /* ================== Desktop Mega Menus CSS  ================== */
 .wsmenu>.wsmenu-list>li>.wsmegamenu {
-  width: 68%;
-  left:5%;
+  width:96.5%;
+  left:1.9%;
   position: absolute;
   top: 70px;
   color: #000;

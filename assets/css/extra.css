@@ -103,6 +103,10 @@
  {
   margin: 10px!important;
  }
+  .mg-30
+ {
+  margin: 30px;
+ }
   .mg-t-5
  {
   margin-top: 5px;
@@ -123,9 +127,17 @@
  {
   margin-top: 40px;
  }
+  .mg-t-50
+ {
+  margin-top: 50px;
+ }
   .mg-t-70
  {
   margin-top: 70px!important;
+ }
+ .mg-b-30
+ {
+  margin-bottom: 30px;
  }
  .mg-t-b-15
  {
@@ -153,6 +165,11 @@
  {
   padding: 20px;
  }
+
+ .op-0-7
+ {
+  opacity: 0.7;
+ }
  
  .pd-25
  {
@@ -173,6 +190,10 @@
  .pd-r-5
  {
   padding-right: 5px;
+ }
+ .pd-l-0
+ {
+  padding-left: 0px;
  }
  .pd-r-15
  {
@@ -271,7 +292,7 @@
   position: absolute;
   left:0;
   top: 40%;
-  opacity: 0.6;
+  transform: rotate(180deg);
 
  }
  .services-section-slider .owl-next
@@ -412,9 +433,28 @@
 .link-list
 {
   border-right: 1px solid silver;
+  min-height: 116px;
 }
 .visibility-hidden
 {
    visibility: hidden;
 }
+.pd-t-15
+{
+  padding-top: 15px!important;
+}
 
+.link-list p
+{
+  margin: 0;
+}
+
+.br-none
+{
+  border-radius: 0!important;
+}
+
+::placeholder
+{
+  font-size: 12px!important;
+}

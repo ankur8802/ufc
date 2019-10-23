@@ -132,43 +132,36 @@ top:-25px!important;
          }
 
 }
-@media only screen and (max-width:1308px)
-{
-  .wsmenu>.wsmenu-list>li>.wsmegamenu
-  {
-    width:70%!important;
-  }
+
+@media only screen and (max-width: 1039px) {
+   
+   .box-inner-img
+   {
+    top: -19%;
+   }
+    
 }
 
-@media only screen and (max-width:1270px)
-{
-  .wsmenu>.wsmenu-list>li>.wsmegamenu
-  {
-    width:75%!important;
-  }
+@media only screen and (min-width: 991px) {
+
+   .testmolials-video .owl-dots
+   {
+    margin-top: 20px;
+   }
 }
 
-@media only screen and (max-width:1182px)
-{
-  .wsmenu>.wsmenu-list>li>.wsmegamenu
-  {
-    width:80%!important;
-  }
-}
 
-@media only screen and (max-width:1106px)
-{
-  .wsmenu>.wsmenu-list>li>.wsmegamenu
-  {
-    width:90%!important;
-  }
-}
 @media only screen and (max-width: 991px) {
     
     .br-l-none-991
     {
       border:none !important;
-    }
+    } 
+    .services-section-slider .box-inner-img
+   {
+    top: -22%
+   }
+
     .hide-nav
     {
     	display: none;
@@ -206,8 +199,8 @@ top:-25px!important;
    }
    .services-section-img img
    {
-    width: 30px!important;
-    height:30px!important;
+    width: 50px!important;
+    height: 50px!important;
    }
    .visibility-hidden
    {
@@ -314,6 +307,7 @@ top:-25px!important;
    {
    	text-align: center;
    }
+
 
 
 }

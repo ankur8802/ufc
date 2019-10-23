@@ -5,7 +5,7 @@
     loop:true,
     margin:15,
     nav:true,
-    navText: ["<img src='../ufc/assets/images/blueleftarrow.png'>","<img src='../ufc/assets/images/bluerightarrow.png'>"],
+    navText: ["<img src='../ufc/assets/images/bluearrow.png'>","<img src='../ufc/assets/images/bluearrow.png'>"],
     responsive:{
         0:{
             items:1
