@@ -63,7 +63,7 @@
   }
   .li-active
   {
-    background: #cea612;
+    background-image: linear-gradient(132deg, #ddcc1c 21%, #c58b0c 121%);
     color: #000!important;
   }
 

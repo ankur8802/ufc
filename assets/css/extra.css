@@ -391,14 +391,26 @@
 .a-finish
 {
    text-decoration: none!important;
-   color: inherit;
+   color: #414141!important;
 }
+.menu-text-hover:hover
+{
+  font-weight: 500;
+  
+}
+
 .nav-text
 {
-  padding: 20px;
+  padding: 20px 25px;
+  cursor: pointer;
 }
 
 .link-list
 {
   border-right: 1px solid silver;
 }
+.visibility-hidden
+{
+   visibility: hidden;
+}
+

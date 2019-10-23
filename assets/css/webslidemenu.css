@@ -47,7 +47,6 @@ Extra @Media Query
   font-weight: normal;
   font-size: 12px;
   line-height: 18px;
-  font-family: Helvetica, sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
   font-smoothing: antialiased;
   font-smooth: antialiased;
@@ -117,11 +116,10 @@ video {
 }
 
 .wsmenu {
-  font-family: Helvetica, sans-serif;
   color: #fff;
   font-size: 14px;
   padding: 0;
-  width: 85%;
+  width: 92%;
   float: right;
   display: block;
 }
@@ -434,7 +432,7 @@ video {
 
 /* ================== Desktop Mega Menus CSS  ================== */
 .wsmenu>.wsmenu-list>li>.wsmegamenu {
-  width: 90%;
+  width: 68%;
   left:5%;
   position: absolute;
   top: 70px;
@@ -443,7 +441,7 @@ video {
   margin: 0px;
   text-align: left;
   padding: 14px 5px;
-  font-size: 15px;
+  font-size: 14px;
   border: solid 1px #eeeeee;
   background-color:#f2f4f7;
 }
@@ -1246,7 +1244,7 @@ video {
 
   .wsmenu>.wsmenu-list>li .wsmenu-click.ws-activearrow>i {
     transform: rotate(-45deg);
-    margin-top: 23px;
+    margin-top: 30px;
   }
 
   .wsmenu>.wsmenu-list>li>.wsmenu-click>i {
@@ -1255,7 +1253,7 @@ video {
     width: 8px;
     float: right;
     transform: rotate(-225deg);
-    margin: 18px 18px 0px 0px;
+    margin: 25px 18px 0px 0px;
   }
 
   .wsmenu>.wsmenu-list>li>.wsmenu-click>i:before {
