@@ -1244,7 +1244,7 @@ video {
 
   .wsmenu>.wsmenu-list>li .wsmenu-click.ws-activearrow>i {
     transform: rotate(-45deg);
-    margin-top: 30px;
+    margin-top: 20px;
   }
 
   .wsmenu>.wsmenu-list>li>.wsmenu-click>i {
@@ -1253,7 +1253,7 @@ video {
     width: 8px;
     float: right;
     transform: rotate(-225deg);
-    margin: 25px 18px 0px 0px;
+    margin: 15px 18px 0px 0px;
   }
 
   .wsmenu>.wsmenu-list>li>.wsmenu-click>i:before {

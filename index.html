@@ -84,9 +84,15 @@
            
 
           <li aria-haspopup="true">
-            <div class="nav-text navtext menu-first pd-10 text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext menu-first pd-10 text-left">
+
+            <div class="inner-navtext pd-r-10 pd-l-10">  
+
             <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">Product & Services</h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Loan,Finance & Deposits</p>
+
+            </div>
+
             </div>
             <div class="wsmegamenu clearfix bg-none-991 menu-first-text">
               <div class="container">
@@ -146,9 +152,11 @@
          
 
           <li aria-haspopup="true">
-            <div class="nav-text navtext menu-second pd-10 text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext menu-second pd-10 text-left"> 
+            <div class="inner-navtext pd-r-10 pd-l-10">   
             <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">About Us</h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Latest news & Reports</p>
+          </div>
             </div>
              <div class="wsmegamenu clearfix bg-none-991 menu-second-text">
               <div class="container">
@@ -210,9 +218,11 @@
 
 
            <li aria-haspopup="true">
-            <div class="nav-text navtext pd-10 menu-third text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext pd-10 menu-third text-left">  
+              <div class="inner-navtext pd-r-10 pd-l-10">  
             <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">UFC in News</h4>
             <p class="fz-10 mg-0 desktop-version text-left"  style="color:#414141;">Great Carrer Opportunities</p>
+          </div>
             </div>
             <div class="wsmegamenu clearfix bg-none-991 menu-third-text">
               <div class="container">
@@ -272,9 +282,11 @@
 
 
            <li aria-haspopup="true">
-            <div class="nav-text navtext pd-10 menu-fourth text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext pd-10 menu-fourth text-left"> 
+            <div class="inner-navtext pd-r-10 pd-l-10">   
             <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">Work With Us</h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Great Carrer</p>
+          </div>
             </div>
             <div class="wsmegamenu clearfix bg-none-991 menu-fourth-text">
               <div class="container">
@@ -334,9 +346,11 @@
 
 
            <li aria-haspopup="true">
-            <div class="nav-text navtext pd-10 menu-fifth text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext pd-10 menu-fifth text-left">  
+              <div class="inner-navtext pd-r-10 pd-l-10">  
             <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">Investor Relations</h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Trusted investors</p>
+          </div>
             </div>
              <div class="wsmegamenu clearfix bg-none-991 menu-fifth-text">
               <div class="container">
@@ -397,8 +411,10 @@
 
 
            <li aria-haspopup="true" class="mobile-version">
-            <div class="nav-text navtext pd-10 text-left-991 pd-l-25-991">  
+            <div class="nav-text navtext pd-10 menu-fifth text-left">  
+                 <div class="inner-navtext pd-r-10 pd-l-10">  
             <h4 class="fz-14 font-regular-500" style="color:#414141;"> <a href="#" class="a-finish menu-text-hover"> Help & Contact </a></h4>
+          </div>
             </div>
            
       
@@ -1149,47 +1165,57 @@
 
    
        $(".menu-first,.menu-first-text").mouseover(function(){
-        $(".menu-first").css("background","#f2f4f7")
+        $(".menu-first").css("background","#f2f4f7");
+      $(".menu-first").children().removeClass('inner-navtext');
        });
        
        $(".menu-first,.menu-first-text").mouseout(function(){
         $(".menu-first").css("background","none")
+        $(".menu-first").children().addClass('inner-navtext');
        });
 
       
        $(".menu-second,.menu-second-text").mouseover(function(){
-        $(".menu-second").css("background","#f2f4f7")
+        $(".menu-second").css("background","#f2f4f7");
+          $(".menu-second").children().removeClass('inner-navtext');
        });
        
        $(".menu-second,.menu-second-text").mouseout(function(){
-        $(".menu-second").css("background","none")
+        $(".menu-second").css("background","none");
+         $(".menu-second").children().addClass('inner-navtext');
        });
 
 
        $(".menu-third,.menu-third-text").mouseover(function(){
-        $(".menu-third").css("background","#f2f4f7")
+        $(".menu-third").css("background","#f2f4f7");
+        $(".menu-third").children().removeClass('inner-navtext');
        });
        
        $(".menu-third,.menu-third-text").mouseout(function(){
-        $(".menu-third").css("background","none")
+        $(".menu-third").css("background","none");
+         $(".menu-third").children().addClass('inner-navtext');
        });
 
 
        $(".menu-fourth,.menu-fourth-text").mouseover(function(){
-        $(".menu-fourth").css("background","#f2f4f7")
+        $(".menu-fourth").css("background","#f2f4f7");
+          $(".menu-fourth").children().removeClass('inner-navtext');
        });
        
        $(".menu-fourth,.menu-fourth-text").mouseout(function(){
-        $(".menu-fourth").css("background","none")
+        $(".menu-fourth").css("background","none");
+          $(".menu-fourth").children().addClass('inner-navtext');
        });
 
 
        $(".menu-fifth,.menu-fifth-text").mouseover(function(){
-        $(".menu-fifth").css("background","#f2f4f7")
+        $(".menu-fifth").css("background","#f2f4f7");
+          $(".menu-fifth").children().removeClass('inner-navtext');
        });
        
        $(".menu-fifth,.menu-fifth-text").mouseout(function(){
-        $(".menu-fifth").css("background","none")
+        $(".menu-fifth").css("background","none");
+        $(".menu-fifth").children().addClass('inner-navtext');
        });
 
 

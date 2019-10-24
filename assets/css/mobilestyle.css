@@ -276,6 +276,17 @@ top:-25px!important;
      font-size: 11px;
      padding: 5px 10px;
    }
+   .link-list
+   {
+    margin: 0;
+    min-height: auto;
+    
+   }
+   .link-list p
+   {
+     padding: 10px 0px 10px 0px;
+   }
+  
 
 
 
@@ -307,7 +318,16 @@ top:-25px!important;
    {
    	text-align: center;
    }
+   .inner-navtext
+    {
+      border-right: 1px solid #e6e6e6;
+    }
 
+    .nav-text
+{
+  padding: 20px 15px;
+}
+ 
 
 
 }
