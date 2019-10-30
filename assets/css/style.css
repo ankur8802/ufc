@@ -240,6 +240,18 @@
   padding:20px;
   border-radius: 4px;
 }
+
+.about-banner-inner-img
+{
+  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
+  position:absolute;
+  width:25%;
+  top:30%;
+
+  left:50px;
+  padding:20px;
+  border-radius: 4px;
+}
 .banner-read-more-btn
 {
    background:#cea612;
@@ -413,3 +425,18 @@ footer
 
 
 /*<----------------------------- Footer and  Fourth Section End -------------------->*/
+/*<-----------------------------about-us-page------------------*/
+
+.mobile-menu-about-us select
+{
+  width: 100%;
+  color: #fff;
+  background:#0f58af;
+  padding: 10px;
+  height: 50px;
+  border: none;
+  font-size: 18px;
+  box-shadow: 0 5px 25px rgba(0,0,0,.5);
+  outline: none;
+
+}

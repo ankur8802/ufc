@@ -21,11 +21,27 @@
  		</div>
  	</div>
  </div>
+
+<div class="container-fluid pd-l-r-24 mg-t-10">
+ <div class="mobile-menu-about-us mobile-version">
+ 	<select>
+ 		<option value="1">Chairman's Message </option>
+ 		<option value="2"> From the CEO</option>
+ 		<option value="3">Board of Directors</option>
+ 		<option value="4">Management Team</option>
+ 		<option value="5">Vision, Mission & Values</option>
+ 		<option value="6">Milestones</option>
+ 		<option value="7">Major Investors</option>
+ 		<option value="8">Policy Statements</option>
+ 		<option value="9">CSR Activities</option>
+ 	</select>
+ </div>
+</div>
  
  <!-- <-----------------------page title end -------------->
 <div class="container-fluid pd-l-r-24 mg-t-10">
 	<div class="row mg-0 click-el">
-		<div class="col-md-2 pd-0" style="border: 1px solid #e6e6e6;">
+		<div class="col-lg-2 desktop-version pd-0" style="border: 1px solid #e6e6e6;">
 			<div class="row">
 				<div class="col-md-12">
 			<p class="fz-12 color-white pd-5 p92 mg-0"> About us </p>
@@ -45,7 +61,7 @@
 		</div>
 		</div>
 		</div>
-		<div class="col-md-10 mib4 mib4-first" style="background:#e6e6e6;">
+		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first" style="background:#e6e6e6;">
 			<div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -144,7 +160,7 @@
 <!-- <----------------------------2nd div--------------------- -->
 
      
-		    	<div class="col-md-10 mib4 mib4-second" style="background:#e6e6e6;display: none;">
+		    	<div class="col-lg-10 col-md-12 mib4 mib4-second" style="background:#e6e6e6;display: none;">
 		<!-- 	<div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -245,7 +261,7 @@
 
 		<!-- <---------------------3nd div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-third" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-third" style="background:#e6e6e6;display: none;">
 			<!-- <div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -347,7 +363,7 @@
 
 			<!-- <---------------------4th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-fourth" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-fourth" style="background:#e6e6e6;display: none;">
 			<!-- <div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -448,7 +464,7 @@
 
 			<!-- <---------------------5th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-fifth" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-fifth" style="background:#e6e6e6;display: none;">
 		<!-- 	<div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -548,7 +564,7 @@
 
 			<!-- <---------------------6th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-sixth" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-sixth" style="background:#e6e6e6;display: none;">
 			<!-- <div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -648,7 +664,7 @@
 
 			<!-- <---------------------7th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-seventh" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-seventh" style="background:#e6e6e6;display: none;">
 			<!-- <div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -747,7 +763,7 @@
 
 			<!-- <---------------------8th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-eighth" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-eighth" style="background:#e6e6e6;display: none;">
 			<!-- <div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -847,7 +863,7 @@
 
 			<!-- <---------------------9th div ----------------- -->
 
-				<div class="col-md-10 mib4 mib4-ninth" style="background:#e6e6e6;display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-ninth" style="background:#e6e6e6;display: none;">
 		<!-- 	<div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>

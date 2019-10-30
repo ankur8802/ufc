@@ -163,6 +163,73 @@
 </script>
 
 <script>
+  $(".mobile-menu-about-us select").change(function(){
+    var optionValue=this.value;
+    if(optionValue==1)
+    {
+      $(".mib4").hide();
+      $(".mib4-first").show();
+    }
+    else if(optionValue==2)
+    {
+      $(".mib4").hide();
+      $(".mib4-second").show();
+    }
+
+    else if(optionValue==3)
+    {
+      $(".mib4").hide();
+      $(".mib4-third").show();
+    }
+
+     else if(optionValue==4)
+    {
+      $(".mib4").hide();
+      $(".mib4-fourth").show();
+    }
+    
+
+      else if(optionValue==5)
+    {
+      $(".mib4").hide();
+      $(".mib4-fifth").show();
+    }
+    
+
+     else if(optionValue==6)
+    {
+      $(".mib4").hide();
+      $(".mib4-sixth").show();
+    }
+    
+
+     else if(optionValue==7)
+    {
+      $(".mib4").hide();
+      $(".mib4-seventh").show();
+    }
+    
+
+     else if(optionValue==8)
+    {
+      $(".mib4").hide();
+      $(".mib4-eighth").show();
+    }
+    
+
+     else if(optionValue==9)
+    {
+      $(".mib4").hide();
+      $(".mib4-ninth").show();
+    }
+    
+
+    
+  })
+  
+</script>
+
+<script>
 
     $(".mib4-first-menu").click(function(){
       $(".mib4-first").show();
@@ -221,6 +288,7 @@
     });
 
 </script>
+
 
 <script>
 
