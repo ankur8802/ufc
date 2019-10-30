@@ -126,6 +126,100 @@
   $("#menu-1").click(function(){
   $("#menu-1-text").slideToggle();
 });
+
+
+  $("#menu-2").click(function(){
+  $("#menu-2-text").slideToggle();
+});
+
+  $("#menu-3").click(function(){
+  $("#menu-3-text").slideToggle();
+});
+
+  $("#menu-4").click(function(){
+  $("#menu-4-text").slideToggle();
+});
+
+    $("#menu-5").click(function(){
+  $("#menu-5-text").slideToggle();
+});
+
+     $("#menu-6").click(function(){
+  $("#menu-6-text").slideToggle();
+});
+ 
+
+  $("#menu-7").click(function(){
+  $("#menu-7-text").slideToggle();
+});
+</script>
+
+<script>
+  $(".mib4-hide").click(function(){
+    $(".mib4").hide();
+    $(".mib4-hide").removeClass('p92-active');
+    $(".mib4-hide").removeClass('font-bold');
+  });
+</script>
+
+<script>
+
+    $(".mib4-first-menu").click(function(){
+      $(".mib4-first").show();
+        $(".mib4-first-menu").addClass('p92-active');
+      $(".mib4-first-menu").addClass('font-bold');
+    });
+
+     $(".mib4-second-menu").click(function(){
+      $(".mib4-second").show();
+        $(".mib4-second-menu").addClass('p92-active');
+      $(".mib4-second-menu").addClass('font-bold');
+    });
+
+      $(".mib4-third-menu").click(function(){
+      $(".mib4-third").show();
+        $(".mib4-third-menu").addClass('p92-active');
+      $(".mib4-third-menu").addClass('font-bold');
+    });
+
+
+       $(".mib4-fourth-menu").click(function(){
+      $(".mib4-fourth").show();
+        $(".mib4-fourth-menu").addClass('p92-active');
+      $(".mib4-fourth-menu").addClass('font-bold');
+    });
+
+
+        $(".mib4-fifth-menu").click(function(){
+      $(".mib4-fifth").show();
+        $(".mib4-fifth-menu").addClass('p92-active');
+      $(".mib4-fifth-menu").addClass('font-bold');
+    });
+
+        $(".mib4-sixth-menu").click(function(){
+      $(".mib4-sixth").show();
+        $(".mib4-sixth-menu").addClass('p92-active');
+      $(".mib4-sixth-menu").addClass('font-bold');
+    });
+
+        $(".mib4-seventh-menu").click(function(){
+      $(".mib4-seventh").show();
+        $(".mib4-seventh-menu").addClass('p92-active');
+      $(".mib4-seventh-menu").addClass('font-bold');
+    });
+
+        $(".mib4-eighth-menu").click(function(){
+      $(".mib4-eighth").show();
+        $(".mib4-eighth-menu").addClass('p92-active');
+      $(".mib4-eighth-menu").addClass('font-bold');
+    });
+
+        $(".mib4-ninth-menu").click(function(){
+      $(".mib4-ninth").show();
+        $(".mib4-ninth-menu").addClass('p92-active');
+      $(".mib4-ninth-menu").addClass('font-bold');
+    });
+
 </script>
 
 <script>

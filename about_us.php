@@ -33,19 +33,19 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-			<p class="color-gray font-bold mg-t-b-10-0 fz-12 pd-10 p92-active"> Chairman's Message </p>
-			<p class="color-gray pd-10 fz-12 mg-0">From the CEO</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Board of Directors</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Management Team</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Vision, Mission & Values</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Milestones</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Major Investors</p>
-			<p class="color-gray pd-10 fz-12 mg-0">Policy Statements</p>
-			<p class="color-gray pd-10 fz-12 mg-0">CSR Activities </p>
+			<p class="color-gray font-bold mg-t-b-10-0 fz-12 pd-10 p92-active mib4-hide mib4-first-menu"> Chairman's Message </p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-second-menu">From the CEO</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-third-menu">Board of Directors</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-fourth-menu">Management Team</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-fifth-menu">Vision, Mission & Values</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-sixth-menu">Milestones</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-seventh-menu">Major Investors</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-eighth-menu">Policy Statements</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-ninth-menu">CSR Activities </p>
 		</div>
 		</div>
 		</div>
-		<div class="col-md-10" style="background: linear-gradient(#e6e6e6 10%, #ffffff 90%);">
+		<div class="col-md-10 mib4 mib4-first" style="background:#e6e6e6;">
 			<div class="row">
 				<div class="col-md-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
@@ -53,18 +53,899 @@
 					<p class="fz-12 text-center color-gray">Chairman</p>
 				</div>
 				<div class="col-md-9 pd-20">
-					<div class="ab-text bg-white br-4 pd-10" id="menu-1">
-						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus"></i> </span> 
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
 						</p>
 					</div>
-					<div class="ab-text-on-click pd-5" id="menu-1-text">
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
 				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
 
                       <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
 					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
 				</div>
 			</div>
 		</div>
+
+<!-- <----------------------------2nd div--------------------- -->
+
+     
+		    	<div class="col-md-10 mib4 mib4-second" style="background:#e6e6e6;display: none;">
+		<!-- 	<div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+
+			  <center><h2> coming soons 2nd </h2></center>
+		</div>
+
+
+		<!-- <---------------------3nd div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-third" style="background:#e6e6e6;display: none;">
+			<!-- <div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+			<center><h2> coming soons 3rd </h2></center>
+		</div>
+
+
+
+
+			<!-- <---------------------4th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-fourth" style="background:#e6e6e6;display: none;">
+			<!-- <div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+
+			<center><h2> coming soons 4th </h2></center>
+		</div>
+
+
+			<!-- <---------------------5th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-fifth" style="background:#e6e6e6;display: none;">
+		<!-- 	<div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+			<center><h2> coming soons 5th </h2></center>
+		</div>
+
+
+			<!-- <---------------------6th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-sixth" style="background:#e6e6e6;display: none;">
+			<!-- <div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+			<center><h2> coming soons 6th </h2></center>
+		</div>
+
+
+			<!-- <---------------------7th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-seventh" style="background:#e6e6e6;display: none;">
+			<!-- <div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+			<center><h2> coming soons 7th </h2></center>
+		</div>
+
+			<!-- <---------------------8th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-eighth" style="background:#e6e6e6;display: none;">
+			<!-- <div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+			<center><h2> coming soons 8th </h2></center>
+		</div>
+
+
+			<!-- <---------------------9th div ----------------- -->
+
+				<div class="col-md-10 mib4 mib4-ninth" style="background:#e6e6e6;display: none;">
+		<!-- 	<div class="row">
+				<div class="col-md-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
+					<p class="fz-12 text-center color-gray">Chairman</p>
+				</div>
+				<div class="col-md-9 pd-20">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+
+
+					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						</p>
+					</div>
+					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+
+                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
+					</div>
+                    
+
+
+
+
+
+
+
+
+
+				</div>
+			</div> -->
+
+			<center><h2> coming soons 9th </h2></center>
+		</div>
+
+
 	</div>
 	
 </div>

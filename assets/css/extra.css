@@ -139,6 +139,11 @@
  {
   margin-bottom: 30px;
  }
+
+  .mg-b-10
+ {
+  margin-bottom: 10px;
+ }
  .mg-l-10
  {
   margin-left: 10px;
@@ -512,4 +517,14 @@
 .click-el p
 {
   cursor:pointer;
+}
+
+.ab-text-bg
+{
+  background:#f2f4f7!important;
+}
+
+.color-plus
+{
+  color: #0858a8;
 }
