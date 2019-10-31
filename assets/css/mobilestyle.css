@@ -872,3 +872,33 @@ top:-25px!important;
         font-size: 11px!important;
       }
     }
+
+
+@media only screen and (max-width:1310px){
+    .about-banner-inner-img
+    {
+      top: 25%;
+    }
+
+
+    }
+
+
+@media only screen and (max-width:1150px){
+    .about-banner-inner-img
+    {
+      top: 20%;
+    }
+
+
+    }
+
+
+@media only screen and (max-width:1050px){
+    .about-banner-inner-img
+    {
+      top: 17%;
+    }
+
+
+    }

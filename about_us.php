@@ -5,6 +5,19 @@
 	<div class="about-us-banner">
 		<img src="assets/images/about-us.jpg" alt=".." width="100%">
 	</div>
+	   <div class="text-align-mobile-center text-center pd-10 mobile-version">
+                      
+                      <h3 class="fz-15">Finance that matches your needs</h3>
+                      <p class="fz-12">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                      <a href="#" class="banner-read-more-btn block height-auto fz-12 color-white" style="color:#fff!important;">Read more</a>
+          
+                     </div>
+          
+           <div class="about-banner-inner-img text-align-mobile-center desktop-version">
+                <p class="color-white fz-17">Finance that matches your needs</p>
+                <p class="fz-12 color-white font-regular">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <a href="#" class="banner-read-more-btn">Read more<img src="assets/images/grayarrow.png" alt="" style="width:8%;margin: 5px;"></a>
+           </div>
 </div>
 <!-- <-----------------------about us banner end-------------->
 
@@ -70,7 +83,7 @@
 				</div>
 				<div class="col-md-9 pd-20">
 					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
-						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <img src="assets/images/minus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
@@ -80,7 +93,7 @@
 					</div>
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
@@ -91,7 +104,7 @@
                     
 
                     <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
-						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
@@ -102,7 +115,7 @@
 
 
 					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
-						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
@@ -113,7 +126,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
-						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
@@ -124,7 +137,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
-						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
@@ -135,7 +148,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
-						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
