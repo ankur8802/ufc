@@ -350,7 +350,29 @@
 
 
 </script>
+<script>
 
+    
+  $("#menu-1").click(function(){
+
+   changeplusminus();
+});
+
+   function changeplusminus(){ 
+
+   var heightsize = $("#menu-1-text").height(); 
+  if(heightsize<=1)
+  {
+     $(".menu-img-1").attr('src','assets/images/minus-icon.svg');
+      $("#menu-1").removeClass('ab-text-bg');
+  } 
+  else
+  {
+     $(".menu-img-1").attr('src','assets/images/plus-icon.svg');
+      $("#menu-1").addClass('ab-text-bg');
+  }
+};
+</script>
 
 
 

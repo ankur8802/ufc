@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle-Copy" stroke-opacity="0" stroke="#979797" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="28" height="28"></rect>
+            <path d="M25.0463576,13 L14.9377483,13 L13.0304636,13.031746 L2.95364238,13.031746 C2.41324503,13.031746 2,13.4444444 2,13.984127 C2,14.5238095 2.41324503,14.9365079 2.95364238,14.9365079 L13.0622517,14.9365079 L14.9695364,14.9047619 L25.0463576,14.9047619 C25.586755,14.9047619 26,14.4920635 26,13.952381 C26,13.4126984 25.586755,13 25.0463576,13 Z" id="Path" fill="#0858A8" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

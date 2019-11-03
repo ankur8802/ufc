@@ -50,7 +50,7 @@
  <!-- <---------------------------------------temo nav---------------------- -->
    <div class="wsmobileheader clearfix ">
     <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
-    <span class="smllogo"> <a href="index.html"><img src="assets/images/logo.jpg" alt=""> </a> </span>
+    <span class="smllogo"> <a href="index.php"><img src="assets/images/logo.jpg" alt=""> </a> </span>
     <a href="tel:123456789" class="callusbtn"><button class="li-active li-active-btn">Log In</button></a>
   </div>
   <!-- Mobile Header -->
@@ -68,7 +68,7 @@
     <div class=" clearfix">
 
 
-      <div class="desktoplogo" style="padding: 0;"><a href="index.html"><img src="assets/images/logo.jpg" alt=""></a></div>
+      <div class="desktoplogo" style="padding: 0;"><a href="index.php"><img src="assets/images/logo.jpg" alt=""></a></div>
       <!--Main Menu HTML Code-->
       <nav class="wsmenu">
         <ul class="wsmenu-list">
@@ -154,7 +154,7 @@
           <li aria-haspopup="true">
             <div class="nav-text navtext menu-second pd-10 text-left"> 
             <div class="inner-navtext pd-r-10 pd-l-10">   
-            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">About Us</h4>
+            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;"> <a href="About_us.php" class="a-finish"> About Us </a></h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Latest news & Reports</p>
           </div>
             </div>

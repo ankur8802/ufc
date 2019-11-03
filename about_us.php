@@ -76,14 +76,14 @@
 		</div>
 		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first" style="background:#e6e6e6;">
 			<div class="row">
-				<div class="col-md-3 pd-20">
-					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
+				<div class="col-md-3 col-sm-3 pd-20">
+					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%" class="wd-20-575"> </center>
 					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
 					<p class="fz-12 text-center color-gray">Chairman</p>
 				</div>
-				<div class="col-md-9 pd-20">
+				<div class="col-md-9 col-sm-9 pd-20">
 					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
-						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <img src="assets/images/minus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
@@ -93,7 +93,7 @@
 					</div>
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
@@ -104,7 +104,7 @@
                     
 
                     <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
-						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
@@ -115,7 +115,7 @@
 
 
 					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
-						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
@@ -126,7 +126,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
-						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
@@ -137,7 +137,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
-						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
@@ -148,7 +148,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
-						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <img src="assets/images/plus.png" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
