@@ -63,6 +63,10 @@
  {
   font-size: 12px!important;
  }
+  .fz-13
+ {
+  font-size: 13px!important;
+ }
  .fz-14
  {
   font-size: 14px!important;
@@ -111,9 +115,17 @@
  {
   margin-top: 5px;
  }
+  .mg-t-5-imp
+ {
+  margin-top: 5px!important;
+ }
  .mg-t-10
  {
   margin-top: 10px;
+ }
+ .mg-t-10-imp
+ {
+  margin-top: 10px!important;
  }
  .mg-t-20
  {
@@ -527,4 +539,22 @@
 .color-plus
 {
   color: #0858a8;
+}
+
+.sticky {
+      position: fixed;
+      top: 54px;
+      width: 100%;
+      z-index: 1;
+      left: 0;
+}
+
+.mib4-third img
+{
+   box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.modal-dialog
+{
+  max-width: 90%!important;
 }

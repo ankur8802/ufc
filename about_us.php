@@ -16,7 +16,7 @@
            <div class="about-banner-inner-img text-align-mobile-center desktop-version">
                 <p class="color-white fz-17">Finance that matches your needs</p>
                 <p class="fz-12 color-white font-regular">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                <a href="#" class="banner-read-more-btn">Read more<img src="assets/images/grayarrow.png" alt="" style="width:8%;margin: 5px;"></a>
+                
            </div>
 </div>
 <!-- <-----------------------about us banner end-------------->
@@ -274,102 +274,89 @@
 
 		<!-- <---------------------3nd div ----------------- -->
 
-				<div class="col-lg-10 col-md-12 mib4 mib4-third" style="background:#e6e6e6;display: none;">
-			<!-- <div class="row">
-				<div class="col-md-3 pd-20">
-					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%"> </center>
-					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
-					<p class="fz-12 text-center color-gray">Chairman</p>
-				</div>
-				<div class="col-md-9 pd-20">
-					<div class="ab-text  mg-b-10  bg-white br-4 pd-10" id="menu-1">
-						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <i class="fas fa-minus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+				<div class="col-lg-10 col-md-12 mib4 mib4-third" style="display: none;">
+                 <p class="fz-13 font-bold pd-20 color-gray text-center">UFC is led by an eminent Board of Directors comprising of members with rich experience in managing diverse lines of business. </p>
 
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
+                <div class="row">
+                	<div class="col-md-12 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mohamed Abdulla Al Khonji</p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Chairman </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u  data-toggle="modal" data-target="#myModal">View Profile</u></p>
+                	</div>
+                </div>
+                <div class="row mg-t-40">
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-6 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mr Hassan Ihsan Naseeb Al Nasib</p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Deputy Chairman </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-6 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mr Ranga Gorur</p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Director </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-12 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mr Hussam Hisham Omar Bostami </p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Director </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                </div>
 
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-                    
-
-                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-3">
-						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-4">
-						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-5">
-						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
+                <div class="row mg-t-40">
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-6 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mr Waseem Salah Qaraeen</p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Director </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-6 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold">Mr.Awad Mohammed Faraj Bamkhalif</p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Director </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                	<div class="col-md-4 col-sm-4 col-xs-4 col-12 text-center">
+                		<img src="assets/images/pic-ab-us.jpg" alt="">
+                		<p class="fz-10 mg-0 mg-t-10-imp font-bold"> Dr Mohammed Sulaiman Ahmed Saeed Al Houqani  </p>
+                		<p class="fz-10 mg-0 mg-t-5-imp"> Director </p>
+                		<p class="fz-10 font-bold mg-t-5-imp" style="color:#0858a8;"><u>View Profile</u></p>
+                	</div>
+                </div>
 
 
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-6">
-						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
+                 <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
 
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10" id="menu-7">
-						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <i class="fas fa-plus color-plus"></i> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-                    
-
-
-
-
-
-
-
-
-
-				</div>
-			</div> -->
-			<center><h2> coming soons 3rd </h2></center>
-		</div>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+          	<div class="col-md-2">
+          		<img src="assets/images/pic-ab-us.jpg" alt="" width="100%">
+          	</div>
+          	<div class="col-md-10">
+          		<p class="fz-14 color-gray mg-0"> Mohamed Abdulla Al Khonji </p>
+          		<p class="fz-10 color-gray mg-0"> Chairman </p>
+          		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
+          		
+          	</div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+ 
+	          	</div>
 
 
 
