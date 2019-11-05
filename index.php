@@ -1,6 +1,7 @@
 
   <?php include("navbar.php");?>
 
+  <?php include("preloader.php");?>
 <!--  <------------------------------- Banner and second section start ------------------------->
 <div class="banner mg-t-5 mg-t-29-m">
   <div class="container-fluid pd-25 pd-t-0 pd-0-on-m">

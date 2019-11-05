@@ -350,31 +350,43 @@
 
 
 </script>
+
+
 <script>
-
-    
-  $("#menu-1").click(function(){
-
-   changeplusminus();
-});
-
-   function changeplusminus(){ 
-
-   var heightsize = $("#menu-1-text").height(); 
-  if(heightsize<=1)
+  $(".pmef").click(function(){
+    var heightsize = $(this).next().height();
+     if(heightsize<=1)
   {
-     $(".menu-img-1").attr('src','assets/images/minus-icon.svg');
-      $("#menu-1").removeClass('ab-text-bg');
+    $(this).children().children().children().attr('src','assets/images/minus-icon.svg');
+     $(this).removeClass('ab-text-bg');
   } 
-  else
+   else
   {
-     $(".menu-img-1").attr('src','assets/images/plus-icon.svg');
-      $("#menu-1").addClass('ab-text-bg');
+      $(this).children().children().children().attr('src','assets/images/plus-icon.svg');
+      $(this).addClass('ab-text-bg');
   }
-};
+  })
 </script>
 
+<script>
+function counter(){
+  var count = setInterval(function(){
+    var c = parseInt($('.counter').text());
+    $('.counter').text((++c).toString());
+    if(c == 100)
+    {
+      clearInterval(count);
+      $('.counter').addClass('pre-hide');
+      $('.preloader').addClass('pre-active');
+    }
+  },10)
+}
 
+$(document).ready(function()
+{
+  counter();
+});
+</script>
 
 
 

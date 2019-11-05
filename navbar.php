@@ -88,7 +88,7 @@
 
             <div class="inner-navtext pd-r-10 pd-l-10">  
 
-            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">Product & Services</h4>
+            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;"> <a href="services.php" class="a-finish">Product & Services </a></h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Loan,Finance & Deposits</p>
 
             </div>

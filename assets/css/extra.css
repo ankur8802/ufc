@@ -205,6 +205,10 @@
  {
   padding-left: 10px;
  }
+ .pd-l-15
+ {
+  padding-left: 15px!important;
+ }
 .pd-r-10
 {
   padding-right: 10px;
@@ -250,10 +254,17 @@
  {
   padding-left: 5px!important;
  }
- 
+ .pd-r-0
+ {
+  padding-right: 0!important;
+ }
  .pd-t-0
  {
   padding-top: 0px!important;
+ }
+ .pd-t-40
+ {
+  padding-top: 40px;
  }
  .pd-t-b-15
  {
@@ -557,4 +568,39 @@
 .modal-dialog
 {
   max-width: 90%!important;
+  top: 20%;
+}
+
+.modal-header span
+{
+  padding: 0.3em;
+}
+.modal-header span:nth-child(1)
+{
+  color: #ed0000;
+}
+.modal-header span:nth-child(2)
+{
+  color: #417505;
+}
+.modal-header span:nth-child(3)
+{
+  color: #0858a8;
+}
+.modal-header button
+{
+  background:linear-gradient(#0fa1ff ,#0f6ec7  ,#0f58af );
+}
+.modal-header button i
+{
+  color: #fff;
+  padding: 0.3em;
+  border: 1px solid #fff;
+  border-radius: 50%;
+
+
+}
+.close
+{
+  opacity: 1!important;
 }

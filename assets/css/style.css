@@ -261,7 +261,17 @@
    height: 25px;
    font-size: 12px;
 }
-
+.services-banner-inner-img
+{
+  background:linear-gradient(to left ,#000000 , #606060 );
+  position:absolute;
+  width:25%;
+  top:30%;
+  left:50px;
+  padding:20px;
+  border-radius: 4px;
+  opacity: 0.8;
+}
 /*<-----------------------------Banner and Second Section end -------------------->*/
 
 
