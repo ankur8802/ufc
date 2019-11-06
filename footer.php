@@ -123,7 +123,7 @@
 
 
 <script>
-  $("#menu-1").click(function(){
+  $("#menu-1").click(function(){ 
   $("#menu-1-text").slideToggle();
 });
 
@@ -359,11 +359,14 @@
   {
     $(this).children().children().children().attr('src','assets/images/minus-icon.svg');
      $(this).removeClass('ab-text-bg');
+     $(this).css('box-shadow',' 0 2px 50px 0 rgba(0, 0, 0, 0.21)');
+
   } 
    else
   {
       $(this).children().children().children().attr('src','assets/images/plus-icon.svg');
       $(this).addClass('ab-text-bg');
+      $(this).css('box-shadow','none')
   }
   })
 </script>

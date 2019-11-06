@@ -100,7 +100,7 @@
 
                   <div class="col-lg-4 col-md-12 col-xs-12">
                     <div class="mg-30 link-list">
-                   <p class="color-gray visibility-hidden-hover"> <a href="#" class="a-finish menu-text-hover">Car Finance <img src="assets/images/grayarrow.png" alt=".." width="10%" class="visibility-hidden"> </a> </p>
+                   <p class="color-gray visibility-hidden-hover"> <a href="carfinance.php" class="a-finish menu-text-hover">Car Finance <img src="assets/images/grayarrow.png" alt=".." width="10%" class="visibility-hidden"> </a> </p>
 
                    <p class="color-gray  visibility-hidden-hover"> <a href="#" class="a-finish menu-text-hover">Heavy Equipment Finance <img src="assets/images/grayarrow.png" alt=".." width="10%" class="visibility-hidden">  </a> </p>
 

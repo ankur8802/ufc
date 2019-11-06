@@ -1,6 +1,4 @@
 <?php include("navbar.php");?>
-
-<?php include("preloader.php");?>
 <!-- <-----------------------about us banner -------------->
 <div class="container-fluid pd-l-r-24">
 	<div class="about-us-banner">
@@ -55,7 +53,7 @@
  <!-- <-----------------------page title end -------------->
 <div class="container-fluid pd-l-r-24 mg-t-10">
 	<div class="row mg-0 click-el">
-		<div class="col-lg-2 desktop-version pd-0" style="border: 1px solid #e6e6e6;">
+		<div class="col-lg-2 desktop-version pd-0 br-l-about-us-col-lg-2">
 			<div class="row">
 				<div class="col-md-12">
 			<p class="fz-12 color-white pd-5 p92 mg-0"> About us </p>
@@ -83,7 +81,7 @@
 					<p class="fz-12 text-center color-gray">Chairman</p>
 				</div>
 				<div class="col-md-9 col-sm-9 pd-20">
-					<div class="ab-text  mg-b-10  bg-white br-4 pd-10 pmef" id="menu-1">
+					<div class="ab-text  mg-b-10  bg-white br-4 pd-10 pmef" id="menu-1" style="box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.21);">
 						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
@@ -250,13 +248,15 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
-          		<p class="fz-14 color-gray mg-0"> Mohamed Abdulla Al Khonji </p>
-          		<p class="fz-10 color-gray mg-0"> Chairman </p>
-          		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
+          	<div class="col-md-9">
+          		<p class="fz-14 color-gray mg-0 font-bold"> Mohamed Abdulla Al Khonji </p>
+          		<p class="fz-12 color-gray mg-0"> Chairman </p>
+          		<p class="fz-12 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
           		
           	</div>
           </div>
@@ -281,10 +281,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic2-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Mr Hassan Ihsan Naseeb Al Nasib </p>
           		<p class="fz-10 color-gray mg-0"> Deputy Chairman </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
@@ -312,10 +314,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic3-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Mr Ranga Gorur </p>
           		<p class="fz-10 color-gray mg-0"> Director </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
@@ -342,10 +346,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic4-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Mr Hussam Hisham Omar Bostami </p>
           		<p class="fz-10 color-gray mg-0"> Director </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
@@ -372,10 +378,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic5-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Mr Waseem Salah Qaraeen </p>
           		<p class="fz-10 color-gray mg-0"> Director </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
@@ -402,10 +410,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic6-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Mr.Awad Mohammed Faraj Bamkhalif</p>
           		<p class="fz-10 color-gray mg-0"> Director </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>
@@ -431,10 +441,12 @@
         </div>
         <div class="modal-body">
           <div class="row">
-          	<div class="col-md-2">
+          	<div class="col-md-3">
+          		<div class="inner-img inner-img-css">
           		<img src="assets/images/pic7-ab-us.jpg" alt="" width="100%">
+          		</div>
           	</div>
-          	<div class="col-md-10">
+          	<div class="col-md-9">
           		<p class="fz-14 color-gray mg-0"> Dr Mohammed Sulaiman Ahmed Saeed Al Houqani </p>
           		<p class="fz-10 color-gray mg-0"> Director </p>
           		<p class="fz-10 color-gray mg-0 mg-t-10-imp justify"> is a Bachelor in Economics and graduated in 1994 from the University of Northern Colorado, USA. He is a major investor in several companies and real estate in Oman. Besides being the Chairman of the Board and Chairman of the Credit and Executive Committee in UFC, he is the Chairman of the Board and Executive Committee in Oman Hotels & Tourism Company SAOG, board member & Chairman of Executive Committee in The Financial Corporation Co. SAOG and board member and a member of the Audit Committee in Takaful Oman Insurance SAOG. He is also the Deputy Chairman of the Board & Chairman of Executive Committee, Al Khonji Group, Chairman of Al Khonji Holding LLC. and Chairman & CEO of Aqar – Oman. In the past, he has been on the boards of several listed companies and banks like Bank Sohar SAOG, Oman Investment & Finance Co. SAOG, National Aluminium Products Co. SAOG, Oman National Electric Co. SAOG, Oman Medical Projects Co. SAOG, Taageer Finance Co. SAOG, Al Anwar Holdings SAOG, etc. He was also a member of the Oman – India Committee and Oman – Lebanon Committee at the OCCI.</p>

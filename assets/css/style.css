@@ -243,9 +243,10 @@
 
 .about-banner-inner-img
 {
-  background:linear-gradient(245deg,rgba(15,161,255,0.8),rgba(15,110,199,0.8));
+  background:linear-gradient(to left, #0fa1ff,#0f6ec7,#0f58af);
   position:absolute;
   width:25%;
+  opacity: 0.8;
   top:30%;
   left:50px;
   padding:20px;

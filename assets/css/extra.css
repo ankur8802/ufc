@@ -170,6 +170,11 @@
   margin-top: 10px;
   margin-bottom: 0px;
  }
+   .mg-t-b-10
+ {
+  margin-top: 10px;
+  margin-bottom: 10px;
+ }
  .mr-l-r-24
  {
   margin-left:24px;
@@ -567,7 +572,7 @@
 
 .modal-dialog
 {
-  max-width: 90%!important;
+  max-width: 70%!important;
   top: 20%;
 }
 
@@ -603,4 +608,25 @@
 .close
 {
   opacity: 1!important;
+}
+
+.car-finance-title
+{
+  border-image: linear-gradient(#ddcc1c 70%,#c58b0c);
+  border-left: 3px solid;
+  border-image-slice: 1;
+}
+.click-el
+{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+.br-l-about-us-col-lg-2
+{
+  border: solid 0.5px rgba(151,151,151,0.5);
+}
+
+.inner-img-css
+{
+  padding: 36px 17px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
