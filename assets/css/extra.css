@@ -630,3 +630,9 @@
   padding: 36px 17px;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+
+.inner-flex-btn
+{
+  background-image: linear-gradient(to left,#0fa1ff,#0f6ec7,#0f58af);
+  margin:10px;
+}

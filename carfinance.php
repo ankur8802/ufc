@@ -90,6 +90,42 @@
 			
 				<div class="col-md-12 col-sm-9 pd-20">
 
+						<div class="service-page-info-section">
+ 		<div class="row">
+ 			<div class="col-md-4 pd-40 pd-b-0">
+ 				<div class="ser-img">
+ 				<img src="assets/images/services-info.jpg" alt="" width="100%">
+ 				</div>
+ 			</div>
+ 			<div class="col-md-8 pd-40 pd-l-0 pd-b-0">
+ 				<p class="fz-14 color-gray font-regular-500">
+ 					Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution.
+ 				</p>
+ 				<p  class="fz-14 color-gray font-regular-500">
+                  UFC finances up to 80% of the purchase price at competitive interest rates to individual borrowers and upto 90% for other types of customers (Subject to satisfaction of other credit criterea).
+                  </p>
+
+                <p  class="fz-14 color-gray font-regular-500">
+                 Eligibility Criteria: Salaried individual with confirmed employment, professionals like Lawyers, Doctors, Engineers etc and Business owners, companies registered in Oman, small and medium enterprises.
+                </p>
+
+
+ 			</div>
+ 		</div>
+ 	</div>
+
+ 	<hr>
+
+ 	<div class="carfinance-loan-cal">
+ 	<div class="inner-flex">
+      <p class="mg-0 fz-16 font-regular-500"> Use our Loan Calculator for to know more options </p>
+     </div>
+   
+
+ 	</div>	
+
+
+ <hr>
 					<div class="car-finance-title mg-t-b-10">
 					<p class="fz-18 color-gray mg-0 pd-5 font-regular-500"> FAQ  </p>
 				</div>
