@@ -220,7 +220,7 @@
            <li aria-haspopup="true">
             <div class="nav-text navtext pd-10 menu-third text-left">  
               <div class="inner-navtext pd-r-10 pd-l-10">  
-            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">UFC in News</h4>
+            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;"> <a href="news.php" class="a-finish"> UFC in News </a></h4>
             <p class="fz-10 mg-0 desktop-version text-left"  style="color:#414141;">Great Carrer Opportunities</p>
           </div>
             </div>
@@ -284,7 +284,7 @@
            <li aria-haspopup="true">
             <div class="nav-text navtext pd-10 menu-fourth text-left"> 
             <div class="inner-navtext pd-r-10 pd-l-10">   
-            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;">Work With Us</h4>
+            <h4 class="fz-14 font-regular-500 text-left" style="color:#414141;"> Work With Us</h4>
             <p class="fz-10 mg-0 desktop-version text-left" style="color:#414141;">Great Carrer</p>
           </div>
             </div>

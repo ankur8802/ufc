@@ -636,3 +636,12 @@
   background-image: linear-gradient(to left,#0fa1ff,#0f6ec7,#0f58af);
   margin:10px;
 }
+
+.spc-btn
+{
+   background-image: linear-gradient(to left,#0fa1ff,#0f6ec7,#0f58af);
+   border: none;
+   padding: 10px;
+   border-radius: 4px;
+   margin-left: 10px;
+}
