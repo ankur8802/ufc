@@ -37,15 +37,15 @@
 <div class="container-fluid pd-l-r-24 mg-t-10">
  <div class="mobile-menu-about-us mobile-version">
  	<select>
- 		<option>Chairman's Message </option>
- 		<option> From the CEO</option>
- 		<option>Board of Directors</option>
- 		<option>Management Team</option>
- 		<option>Vision, Mission & Values</option>
- 		<option>Milestones</option>
- 		<option>Major Investors</option>
- 		<option>Policy Statements</option>
- 		<option>CSR Activities</option>
+ 		<option value="1">Chairman's Message </option>
+ 		<option value="2"> From the CEO</option>
+ 		<option value="3">Board of Directors</option>
+ 		<option value="4">Management Team</option>
+ 		<option value="5">Vision, Mission & Values</option>
+ 		<option value="6">Milestones</option>
+ 		<option value="7">Major Investors</option>
+ 		<option value="8">Policy Statements</option>
+ 		<option value="9">CSR Activities</option>
  	</select>
  </div>
 </div>
@@ -61,126 +61,23 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-			<p class="color-gray font-bold mg-t-b-10-0 fz-12 pd-10 p92-active mib4-hide mib4-first-menu"> Chairman's Message </p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-second-menu">From the CEO</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-third-menu"> <a href="board.php" class="a-finish"> Board of Directors </a></p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-fourth-menu">Management Team</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-fifth-menu">Vision, Mission & Values</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-sixth-menu">Milestones</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-seventh-menu">Major Investors</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-eighth-menu">Policy Statements</p>
-			<p class="color-gray pd-10 fz-12 mg-0 mib4-hide mib4-ninth-menu">CSR Activities </p>
+			<p class="color-gray  mg-t-b-10-0 fz-12 pd-10 mib4-first-menu"> <a href="about_us.php" class="a-finish"> Chairman's Message </a></p>
+			<p class="color-gray pd-10 fz-12 mg-0  mib4-second-menu">From the CEO</p>
+			<p class="color-gray pd-10 fz-12 mg-0 font-bold p92-active mib4-third-menu">Board of Directors</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-fourth-menu">Management Team</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-fifth-menu">Vision, Mission & Values</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-sixth-menu">Milestones</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-seventh-menu">Major Investors</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-eighth-menu">Policy Statements</p>
+			<p class="color-gray pd-10 fz-12 mg-0 mib4-ninth-menu">CSR Activities </p>
 		</div>
 		</div>
 		</div>
-		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first" style="background:#e6e6e6;">
-			<div class="row">
-				<div class="col-md-3 col-sm-3 pd-20">
-					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%" class="wd-20-575"> </center>
-					<p class="fz-12 text-center color-gray font-bold mg-0">Mohamed Abdulla Al Khonji</p>
-					<p class="fz-12 text-center color-gray">Chairman</p>
-				</div>
-				<div class="col-md-9 col-sm-9 pd-20">
-					<div class="ab-text  mg-b-10  bg-white br-4 pd-10 pmef" id="menu-1" style="box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.21);">
-						<p class="mg-0 fz-14 font-bold">Board of Directors’ Report <span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">The Economic Environment <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-                    
-
-                    <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-3">
-						<p class="mg-0 fz-14 font-bold">The Year under review <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-4">
-						<p class="mg-0 fz-14 font-bold">Human Resources<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-5">
-						<p class="mg-0 fz-14 font-bold">Corporate Governance<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-6">
-						<p class="mg-0 fz-14 font-bold">Corporate social responsibility<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-
-
-					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-7">
-						<p class="mg-0 fz-14 font-bold">Acknowledgement<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
-						</p>
-					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
-				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
-
-                      <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
-					</div>
-                    
-
-
-
-
-
-
-
-
-
-				</div>
-			</div>
-		</div>
-
-<!-- <----------------------------2nd div--------------------- -->
-
-     
-		    	<div class="col-lg-10 col-md-12 mib4 mib4-second" style="background:#e6e6e6;display: none;">
-		
-			  <center><h2> coming soons 2nd </h2></center>
-		</div>
-
+	
 
 		<!-- <---------------------3nd div ----------------- -->
 
-				<div class="col-lg-10 col-md-12 mib4 mib4-third" style="display: none;">
+				<div class="col-lg-10 col-md-12 mib4 mib4-third">
                  <p class="fz-13 font-bold pd-20 color-gray text-center">UFC is led by an eminent Board of Directors comprising of members with rich experience in managing diverse lines of business. </p>
 
                 <div class="row">
@@ -461,56 +358,6 @@
   
   
 	          	</div>
-
-
-
-
-			<!-- <---------------------4th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-fourth" style="background:#e6e6e6;display: none;">
-			
-			<center><h2> coming soons 4th </h2></center>
-		</div>
-
-
-			<!-- <---------------------5th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-fifth" style="background:#e6e6e6;display: none;">
-	
-			<center><h2> coming soons 5th </h2></center>
-		</div>
-
-
-			<!-- <---------------------6th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-sixth" style="background:#e6e6e6;display: none;">
-			
-			<center><h2> coming soons 6th </h2></center>
-		</div>
-
-
-			<!-- <---------------------7th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-seventh" style="background:#e6e6e6;display: none;">
-		
-			<center><h2> coming soons 7th </h2></center>
-		</div>
-
-			<!-- <---------------------8th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-eighth" style="background:#e6e6e6;display: none;">
-			
-			<center><h2> coming soons 8th </h2></center>
-		</div>
-
-
-			<!-- <---------------------9th div ----------------- -->
-
-				<div class="col-lg-10 col-md-12 mib4 mib4-ninth" style="background:#e6e6e6;display: none;">
-	
-
-			<center><h2> coming soons 9th </h2></center>
-		</div>
 
 
 	</div>

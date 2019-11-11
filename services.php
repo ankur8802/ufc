@@ -14,7 +14,7 @@
           
                      </div>
           
-           <div class="services-banner-inner-img text-align-mobile-center desktop-version">
+           <div class="services-banner-inner-img about-banner-inner-img text-align-mobile-center desktop-version">
                 <p class="color-white fz-17">Finance that matches your needs</p>
                 <p class="fz-12 color-white font-regular">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 
