@@ -37,7 +37,7 @@
       <div class="row row-mobile">  
       <div class="col-md-12 top-nav-list"> 
         <ul>
-          <li>HELP US IMPROVE</li>
+          <li> <a href="feedback.php" style="text-decoration: none;color: inherit;"> HELP US IMPROVE </a></li>
           <li>CONTACT US</li>
           <li class="li-active">LOGIN</li>
         </ul>
