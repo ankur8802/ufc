@@ -668,3 +668,30 @@
   background-color:#000000;
 
 }
+.wrapper {
+  position:relative;
+}
+
+
+
+.wrapper iframe {
+  display:none;
+}
+
+.play-btn {
+  position:absolute;
+  z-index:666;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  background-color:transparent;
+  border:0;
+}
+
+.play-btn:hover {
+  cursor:pointer;
+}
+
+.play-btn:focus {
+  outline:0;
+}

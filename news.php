@@ -41,6 +41,25 @@
 <!-- <--------------------- menu section----------------------- -->
 
 <div class="container-fluid pd-l-r-24 mg-t-10">
+ <div class="mobile-menu-about-us mobile-version">
+ 
+
+ 	<ul class="mg-0 pd-0">
+ 		<li class="mobile-menu-about-us-text"> Latest News 
+ 		 <i class="fas fa-angle-down rotate-180 fz-18" style="float:right;"></i>
+ 		  </li>
+ 	
+
+         	<ul class="mg-0 pd-0 mobile-menu-about-us-text-start" style="display:none;">
+         		<li> <a href="#"> Press Release </a></li>
+         		<li> <a href="gallery.php"> Gallery </a> </li>
+         		
+ 	      </ul>
+    </ul>
+ </div>
+</div>
+
+<div class="container-fluid pd-l-r-24 mg-t-10">
 	<div class="row mg-0 click-el">
 		<div class="col-lg-2 desktop-version pd-0 br-l-about-us-col-lg-2">
 			<div class="row">

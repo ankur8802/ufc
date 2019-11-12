@@ -154,6 +154,11 @@
 });
 </script>
 
+<script>
+ $(".mobile-menu-about-us-text").click(function(){
+  $(".mobile-menu-about-us-text-start").slideToggle();
+});
+</script>
 
 
 

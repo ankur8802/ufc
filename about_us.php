@@ -36,17 +36,26 @@
 
 <div class="container-fluid pd-l-r-24 mg-t-10">
  <div class="mobile-menu-about-us mobile-version">
- 	<select>
- 		<option>Chairman's Message </option>
- 		<option> From the CEO</option>
- 		<option>Board of Directors</option>
- 		<option>Management Team</option>
- 		<option>Vision, Mission & Values</option>
- 		<option>Milestones</option>
- 		<option>Major Investors</option>
- 		<option>Policy Statements</option>
- 		<option>CSR Activities</option>
- 	</select>
+ 
+
+ 	<ul class="mg-0 pd-0">
+ 		<li class="mobile-menu-about-us-text"> Chairman's Message
+ 		 <i class="fas fa-angle-down rotate-180 fz-18" style="float:right;"></i>
+ 		  </li>
+ 	
+
+         	<ul class="mg-0 pd-0 mobile-menu-about-us-text-start" style="display:none;">
+         		<li> <a href="#"> From the CEO </a></li>
+         		<li> <a href="board.php"> Board of Directors </a> </li>
+         		<li> <a href="#">Management Team </a>  </li>
+ 	         	<li> <a href="#">Vision, Mission & Values </a>  </li>
+         		<li><a href="#"> Milestones </a>  </li>
+ 	         	<li><a href="#"> Major Investors </a>  </li>
+         		<li><a href="#"> Policy Statements </a>  </li>
+ 	         	<li> <a href="#">CSR Activities </a>  </li>
+         		
+ 	      </ul>
+    </ul>
  </div>
 </div>
  

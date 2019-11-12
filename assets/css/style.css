@@ -450,3 +450,18 @@ footer
   outline: none;
 
 }
+
+.mobile-menu-about-us ul li
+{
+  list-style: none;
+  color: #fff;
+  background-image: linear-gradient(to left,#0fa1ff,#0f6ec7,#0f58af);
+  font-size: 18px;
+  box-shadow: 0 5px 25px rgba(0,0,0,.5);
+  padding: 10px;
+}
+.mobile-menu-about-us ul li a
+{
+  text-decoration: none;
+  color: inherit;
+}
