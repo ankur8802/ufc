@@ -142,7 +142,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 1<span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
+					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-1-text">
 				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
 
@@ -150,7 +150,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 2 <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
+					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-2-text" style="display: none;">
 				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
                     
@@ -159,7 +159,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 3<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-3-text" style="display: none;">
+					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-3-text" style="display: none;">
 				      <p class="fz-12 mg-b-20">Dear Shareholders, </p>
 
                       <p class="mg-0 fz-12">On behalf of the Board of Directors, it is my pleasure to present to you the audited financial results of your company for the year ended 31st December 2018. </p>
@@ -170,7 +170,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 4<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-4-text" style="display: none;">
+					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-4-text" style="display: none;">
 				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
 
@@ -179,7 +179,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 5<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-5-text" style="display: none;">
+					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-5-text" style="display: none;">
                       <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
 
@@ -188,7 +188,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 6<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-6-text" style="display: none;">
+					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-6-text" style="display: none;">
 				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
 
@@ -197,7 +197,7 @@
 						<p class="mg-0 fz-14 font-bold">Question 7<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-7-text" style="display: none;">
+					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-7-text" style="display: none;">
 				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
 					</div>
                     
