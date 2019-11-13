@@ -38,7 +38,7 @@
       <div class="col-md-12 top-nav-list"> 
         <ul>
           <li> <a href="feedback.php" style="text-decoration: none;color: inherit;"> HELP US IMPROVE </a></li>
-          <li>CONTACT US</li>
+          <li> <a href="contact.php" style="text-decoration: none;color: inherit;"> CONTACT US </a> </li>
           <li class="li-active">LOGIN</li>
         </ul>
       </div>
