@@ -51,8 +51,8 @@
  	
 
          	<ul class="mg-0 pd-0 mobile-menu-about-us-text-start" style="display:none;">
-         		<li> <a href="#"> Press Release </a></li>
-         		<li> <a href="news.php">  Latest News </a> </li>
+         		<a href="#"><li>  Press Release </li> </a>
+         		<a href="news.php"> <li>  Latest News </li> </a> 
          		
  	      </ul>
     </ul>

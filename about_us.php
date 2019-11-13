@@ -45,14 +45,14 @@
  	
 
          	<ul class="mg-0 pd-0 mobile-menu-about-us-text-start" style="display:none;">
-         		<li> <a href="#"> From the CEO </a></li>
-         		<li> <a href="board.php"> Board of Directors </a> </li>
-         		<li> <a href="#">Management Team </a>  </li>
- 	         	<li> <a href="#">Vision, Mission & Values </a>  </li>
-         		<li><a href="#"> Milestones </a>  </li>
- 	         	<li><a href="#"> Major Investors </a>  </li>
-         		<li><a href="#"> Policy Statements </a>  </li>
- 	         	<li> <a href="#">CSR Activities </a>  </li>
+         		 <a href="#"> <li> From the CEO </li> </a>
+         		 <a href="board.php"> <li> Board of Directors </li> </a> 
+         		 <a href="#"><li>Management Team </li></a>  
+ 	         	 <a href="#"><li> Vision, Mission & Values  </li></a> 
+         		<a href="#"><li> Milestones </li></a>  
+ 	         	<a href="#"><li> Major Investors  </li></a> 
+         		<a href="#"><li> Policy Statements   </li></a>
+ 	         	<a href="#"><li> CSR Activities  </li></a> 
          		
  	      </ul>
     </ul>

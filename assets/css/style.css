@@ -460,8 +460,16 @@ footer
   box-shadow: 0 5px 25px rgba(0,0,0,.5);
   padding: 10px;
 }
-.mobile-menu-about-us ul li a
+.mobile-menu-about-us ul a
 {
   text-decoration: none;
   color: inherit;
+}
+.mobile-menu-about-us ul li:hover
+{
+   background-image: linear-gradient(to left,#0f58af,#0f6ec7,#0fa1ff);
+}
+.mobile-menu-about-us ul li:hover  ~ .mobile-menu-about-us ul a
+{
+  color: red;
 }
