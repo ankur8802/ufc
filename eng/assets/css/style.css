@@ -1,0 +1,702 @@
+
+
+
+/*<-----------------------------Desktop Navbar start -------------------->*/
+ 
+  .navbar ul li
+  {
+    list-style: none;
+    display: inline-block; 
+    padding:15px;
+    padding-bottom: 0;
+
+  }
+  .navbar
+  {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+  .nblss
+  {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+  }
+
+
+ 
+  .navbar ul li
+  {
+    cursor: pointer;
+  }
+  .navbar ul li h4
+  {
+    margin-bottom:5px;
+    font-size:14px;
+    color: #414141;
+  }
+  .navbar ul li p
+  {
+     font-size:10px;
+     color:#414141;
+     font-weight: 500;
+  }
+  .top-nav
+  {
+    background: #414141;
+  }
+  .top-nav-list
+  {
+    text-align: right;
+  }
+
+  [dir="rtl"]  .top-nav-list
+  {
+    text-align:left;
+  }
+  .top-nav-list ul
+  {
+    margin: 0;
+   
+    margin-right: 10px;
+  }
+
+   [dir="rtl"] .top-nav-list ul
+  {
+    margin: 0;
+   
+    margin-left: 10px;
+  }
+  .top-nav-list ul li
+  {
+    list-style: none;
+    display: inline-block;
+    padding: 5px 10px ;
+    color:#e6e6e6;
+    font-size: 11px;
+  }
+
+
+
+  .li-active
+  {
+    background-image: linear-gradient(132deg, #ddcc1c 21%, #c58b0c 121%);
+    color: #000!important;
+  }
+
+  .products-nav
+{
+    background: #f2f4f7;
+    padding: 50px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 10px;
+    top:94px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+    width: 71%;
+  display: none;
+   
+}
+
+
+
+.products-nav a
+{
+  text-decoration: none;
+  color: #999;
+  font-size: 15px;
+}
+
+ .workwithus-nav
+{
+    background: #f2f4f7;
+    padding: 50px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 10px;
+    top:94px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+    width: 71%;
+  display: none;
+   
+}
+
+
+
+.workwithus-nav a
+{
+  text-decoration: none;
+  color: #999;
+  font-size: 15px;
+}
+
+
+ .investors-nav
+{
+    background: #f2f4f7;
+    padding: 50px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 10px;
+    top:94px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+    width: 71%;
+  display: none;
+   
+}
+
+
+
+.investors-nav a
+{
+  text-decoration: none;
+  color: #999;
+  font-size: 15px;
+}
+
+
+.about-nav
+{
+    background: #f2f4f7;
+    padding: 50px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 10px;
+    top:94px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+    width: 71%;
+  display: none;
+   
+}
+
+
+
+.about-nav a
+{
+  text-decoration: none;
+  color: #999;
+  font-size: 15px;
+}
+
+
+.news-nav
+{
+    background: #f2f4f7;
+    padding: 50px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 10px;
+    top:94px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 2px 7px 0 rgba(0, 0, 0, 0.3);
+    width: 71%;
+  display: none;
+   
+}
+
+
+
+.news-nav a
+{
+  text-decoration: none;
+  color: #999;
+  font-size: 15px;
+}
+
+
+
+
+  /*<-----------------------------Desktop Navbar end -------------------->*/
+
+
+/*<-----------------------------Banner and Second Section start -------------------->*/
+
+.banner
+{
+ 
+  background-image: url('../images/bg2.png');
+  background-size:contain;
+  background-attachment:fixed;
+  background-position:center center;
+ 
+
+}
+.md-3-text
+{
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+  
+}
+.col-md-3-text
+{
+   background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);
+   min-height: 276px;
+   padding: 15px;
+}
+.col-md-3-text h5
+{
+  color: #fff;
+  font-size:20px;
+  font-weight:100;
+}
+.col-md-3-text p
+{
+  color: #ffffff;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.banner-inner-img
+{
+  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
+  position:absolute;
+  width:40%;
+  top:94px;
+
+  left:50px;
+  padding:20px;
+  border-radius: 4px;
+}
+
+[dir="rtl"] .banner-inner-img p
+{
+   text-align:right;
+}
+[dir="rtl"] .banner-inner-img
+{
+  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
+  position:absolute;
+  width:40%;
+  top:94px;
+
+  left:500px;
+  padding:20px;
+  border-radius: 4px;
+}
+.dirrtl
+{
+  margin-top: 0!important;padding-top:0!important;
+}
+[dir="rtl"] .dirrtl
+{
+  margin-top: 0!important;padding-top:0!important;
+  text-align:right;
+}
+.about-banner-inner-img
+{
+  background:linear-gradient(to left, #0fa1ff,#0f6ec7,#0f58af);
+  position:absolute;
+  width:25%;
+  opacity: 0.8;
+  top:30%;
+  left:50px;
+  padding:20px;
+  border-radius: 4px;
+}
+.banner-read-more-btn
+{
+   background:#cea612;
+   color:white;
+   padding:8px;
+   border-radius: 4px;
+   color: #414141;
+   height: 25px;
+   font-size: 12px;
+}
+
+[dir="rtl"] .banner-read-more-btn
+{
+   background:#cea612;
+   color:white;
+   
+   padding-top:0px;
+   padding-right:15px;
+   padding-left:-20px;
+   border-radius: 4px;
+   color: #414141;
+   height: 35px;
+   font-size: 12px;
+   float:right;
+   text-align:right;
+}
+
+[dir="rtl"] .banner-read-more-btn img
+{
+   width:25% !important;
+   transform: rotateY(180deg);
+}
+.services-banner-inner-img
+{
+  background:linear-gradient(to left ,#000000 , #606060 );
+  position:absolute;
+  width:25%;
+  top:30%;
+  left:50px;
+  padding:20px;
+  border-radius: 4px;
+  opacity: 0.8;
+}
+/*<-----------------------------Banner and Second Section end -------------------->*/
+
+
+
+
+/*<-----------------------------services and Third Section start -------------------->*/
+
+
+.services-section
+{
+  
+   background-image:linear-gradient(rgba(225,225,225,0.3),rgba(225,225,225,0.3)),url('../images/bg4.png');
+  background-size:cover;
+  background-attachment:fixed;
+  background-position:center center;
+}
+.services-section-text h4
+{
+   font-weight: bold;
+   padding: 10px;
+   padding-left: 10px;
+   border-left: 5px solid #cea612;
+}
+.services-section-text p
+{
+  font-size: 14px;
+  margin: 0;
+}
+.box-inner-img
+{
+margin-left: -11%;
+}
+
+
+.services-section-text
+{
+  text-align: center;
+  margin-top:50px;
+}
+.services-section-img
+{
+  text-align: center;
+
+}
+.box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -22%;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+
+[dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -16%;
+   left:170px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+
+@media (max-width:1232px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -16%;
+   left:150px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:1140px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -15%;
+   left:120px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:810px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -15%;
+   left:170px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:716px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -15%;
+   left:150px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:620px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: -15%;
+   left:120px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:598px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: 15%;
+   left:220px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+
+@media (max-width:502px)
+{
+  [dir="rtl"] .box-inner-img
+{
+   background-image: linear-gradient(to right, #414141, #414141, #414141, #717171, #6f6f6f);
+   display: inline-block;
+   position: absolute;
+   top: 15%;
+   left:180px !important;
+   transform: rotate(45deg);
+   border-radius: 4px;
+  
+}
+}
+.services-section-img img
+{
+  border-radius: 4px;
+  width:50px;
+  height:50px;
+  margin: 10px;
+  transform: rotate(-45deg);
+
+}
+
+/*<----------------- For all read more Button ----------------->*/
+.read-more
+{
+  text-align: center;
+}
+.services-section-text h5
+{
+  font-size: 14px;
+  color: #0858a8;
+  font-weight: 500;
+}
+.services-section-text p
+{
+  font-size: 11px;
+  margin-top: 12px;
+  color: #414141;
+  line-height: 1.6;
+  font-weight: 500;
+}
+.box-shadow-3
+{
+   box-shadow: 0 0 10px #888;
+   background: #fff;
+   border-radius: 4px;
+
+}
+
+
+/*<-----------------------------services and Third Section end -------------------->*/
+
+/*<-----------------------------testmolials and news (Fourth Section start )-------------------->*/
+
+
+.testmolials-heading
+{
+  padding: 10px;
+}
+.testmolials-heading h4
+{
+  padding: 10px;
+  padding-left: 20px;
+  border-left: 5px solid #cea612;
+  float:right;
+}
+.testmolials-section
+{
+  padding:40px;
+  background-image: url('../images/bg2.png');
+  background-size: cover;
+  background-position: center center;
+}
+.news-heading
+{
+  padding: 10px;
+}
+.news-heading h4
+{
+  padding: 10px;
+  padding-left: 20px;
+  border-left: 5px solid #cea612;
+}
+
+[dir="rtl"] .news-heading h4
+{
+  padding: 10px;
+  padding-left: 20px;
+  border-left: 5px solid #cea612;
+  float:right;
+}
+.inner-news-section
+{
+  box-shadow: 0 0 8px silver;
+}
+[dir="rtl"] .news-title h4
+{
+  text-align:right;
+}
+[dir="rtl"] .news-date p
+{
+   text-align:right;
+}
+
+[dir="rtl"] .news-prag p
+{
+   text-align:right;
+}
+
+[dir="rtl"] .read-more img
+{
+   transform:rotateY(180deg);
+}
+
+.read-more p
+{
+  color: #0F77D1;
+  cursor:pointer;
+}
+
+[dir="rtl"] .readmorespan
+{
+  padding-left:0px !important;
+}
+/*<-----------------------------testmolials and news (Fourth Section end )-------------------->*/
+
+/*<-----------------------------Top Footer and  Fourth Section start -------------------->*/
+
+.footer-services-section
+{
+  background-image: url('../images/bg-footer.jpg');
+  background-attachment:fixed;
+  padding: 20px;
+}
+
+.footer-services-section-text img
+{
+  width: 50px;
+  height: 50px;
+}
+/*<-----------------------------Top Footer and  Fourth Section End -------------------->*/
+
+/*<----------------------------- Footer and  Fourth Section Start -------------------->*/
+
+footer
+{
+  background:linear-gradient(rgba(255,216,0,0.6),rgba(0,0,0,0.7)),url('../images/footer.jpg');
+  background-size:cover;
+  background-position:center center;"
+}
+
+[dir="rtl"] .footer-text
+{
+  text-align:right !important;
+}
+
+
+/*<----------------------------- Footer and  Fourth Section End -------------------->*/
+/*<-----------------------------about-us-page------------------*/
+
+.mobile-menu-about-us select
+{
+  width: 100%;
+  color: #fff;
+  background:#0f58af;
+  padding: 10px;
+  height: 50px;
+  border: none;
+  font-size: 18px;
+  box-shadow: 0 5px 25px rgba(0,0,0,.5);
+  outline: none;
+
+}
+
+.mobile-menu-about-us ul li
+{
+  list-style: none;
+  color: #fff;
+  background-image: linear-gradient(to left,#0fa1ff,#0f6ec7,#0f58af);
+  font-size: 18px;
+  box-shadow: 0 5px 25px rgba(0,0,0,.5);
+  padding: 10px;
+}
+.mobile-menu-about-us ul a
+{
+  text-decoration: none;
+  color: inherit;
+}
+.mobile-menu-about-us ul li:hover
+{
+   background-image: linear-gradient(to left,#0f58af,#0f6ec7,#0fa1ff);
+}
+.mobile-menu-about-us ul li:hover  ~ .mobile-menu-about-us ul a
+{
+  color: red;
+}
+
+[dir="rtl"] .rtlarrow
+{
+  transform:rotateY(180deg);
+}
+
+
+[dir="rtl"] .pointer
+{
+  padding-left:0px ! important;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <path d="M25.0463576,13.015873 L14.9377483,13.015873 L14.9377483,2.95238095 C14.9377483,2.41269841 14.5245033,2 13.984106,2 C13.4437086,2 13.0304636,2.41269841 13.0304636,2.95238095 L13.0304636,13.047619 L2.95364238,13.047619 C2.41324503,13.047619 2,13.4603175 2,14 C2,14.5396825 2.41324503,14.952381 2.95364238,14.952381 L13.0622517,14.952381 L13.0622517,25.047619 C13.0622517,25.5873016 13.4754967,26 14.015894,26 C14.5562914,26 14.9695364,25.5873016 14.9695364,25.047619 L14.9695364,14.9206349 L25.0463576,14.9206349 C25.586755,14.9206349 26,14.5079365 26,13.968254 C26,13.4285714 25.586755,13.015873 25.0463576,13.015873 Z" id="Path" fill="#0858A8" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke-opacity="0" stroke="#979797" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="28" height="28"></rect>
+        </g>
+    </g>
+</svg>
