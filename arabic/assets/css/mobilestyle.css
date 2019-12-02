@@ -1,64 +1,4 @@
-@media only screen and (max-width: 1188px)
-{
-  [dir="rtl"] .banner-inner-img
-{
-  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
-  position:absolute;
-  width:40%;
-  top:94px;
 
-  left:350px !important;
-  padding:20px;
-  border-radius: 4px;
-}
-}
-
-@media only screen and (max-width: 725px)
-{
-  [dir="rtl"] .banner-inner-img
-{
-  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
-  position:absolute;
-  width:40%;
-  top:34px !important;
-
-  left:40px !important;
-  padding:20px;
-  border-radius: 4px;
-}
-}
-
-
-@media only screen and (max-width: 623px)
-{
-  [dir="rtl"] .banner-inner-img
-{
-  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
-  position:absolute;
-  width:40%;
-  top:20px !important;
-
-  left:40px !important;
-  padding:20px;
-  border-radius: 4px;
-}
-}
-
-
-@media only screen and (max-width: 1188px)
-{
-  [dir="rtl"] .banner-inner-img
-{
-  background:linear-gradient(245deg,rgba(0,0,0,0.8),rgba(60,60,60,0.8));
-  position:absolute;
-  width:40%;
-  top:94px;
-
-  left:350px !important;
-  padding:20px;
-  border-radius: 4px;
-}
-}
 
 @media only screen and (max-width: 700px) {
  
@@ -156,10 +96,10 @@ margin-left: -6%!important;
 {
   margin-left: 6%;
 }
-.box-inner-img
+/*.box-inner-img
 {
 top:-25px!important;
-}
+}*/
 
 }
 
@@ -212,38 +152,10 @@ top:-25px!important;
    }
 }
 
-@media only screen and (min-width: 580px) {
 
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-10px;
-   }
-}
 
-@media only screen and (min-width: 528px) {
 
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-13px;
-   }
-}
 
-@media only screen and (min-width: 502px) {
-
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-11px;
-
-   }
-}
-
-@media only screen and (min-width: 448px) {
-
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-10px;
-  
-   }
 
 @media only screen and (max-width: 991px) {
     
@@ -256,10 +168,6 @@ top:-25px!important;
     top: -22%
    }
 
-   [dir="rtl"]  .services-section-slider .box-inner-img
-   {
-    top: -16%
-   }
 
     .hide-nav
     {

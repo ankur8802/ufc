@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="assets/css/fade-down.css">
   
   <link rel="stylesheet" href="assets/css/extra.css">
+  <link rel="stylesheet" href="assets/css/extra-rtl.css">
   <link rel="stylesheet" href="assets/css/mobilestyle.css">
   <link href="assets/css/webslidemenu.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="assets/css/darkbox.css">
