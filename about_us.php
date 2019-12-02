@@ -82,7 +82,7 @@
 		</div>
 		</div>
 		</div>
-		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first" style="background:#e6e6e6;">
+		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first">
 			<div class="row">
 				<div class="col-md-3 col-sm-3 pd-20">
 					<center> <img src="assets/images/pic-ab-us.jpg" alt="" width="50%" class="wd-20-575"> </center>

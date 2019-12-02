@@ -1,0 +1,297 @@
+  
+  [dir="rtl"] .text-right-rtl
+  {
+     text-align: right;
+  }
+  
+[dir="rtl"] .box-inner-img
+{
+	margin-right: 32%;
+}
+
+@media only screen and (max-width:1100px)
+{
+	[dir="rtl"] .box-inner-img
+	{
+		 margin-right: 28%;
+	}
+
+}
+
+[dir="rtl"] .owl-item
+{
+	visibility: hidden;
+}
+[dir="rtl"] .owl-item.active
+{
+	visibility: visible;
+}
+
+[dir="rtl"] .dr-rtl
+{
+	display: flex;
+	flex-direction: row-reverse;
+	padding-left: 14px;
+}
+[dir="rtl"] .dr-rtl img
+{
+	transform: rotate(180deg);
+}
+[dir="rtl"] .bd-example
+{
+	margin-top: -20px;
+}
+
+[dir="rtl"] .services-banner-inner-img
+{
+	right: 50px;
+}
+[dir="rtl"] .inner-news-page-title h4
+{
+   text-align: right;
+}
+
+[dir="rtl"] .pagination img
+{
+   transform: rotate(180deg);
+}
+
+[dir="rtl"] .read-more span 
+{
+	padding-left: 0px!important;
+}
+[dir="rtl"] .fa-calendar-alt
+{
+	margin-left: 5px;
+}
+
+[dir="rtl"] .about-banner-inner-img p
+{
+	text-align: right;
+}
+[dir="rtl"] .about-banner-inner-img
+{
+	right: 50px;
+}
+
+
+
+[dir="rtl"] .acord-icon
+{
+float:left;
+}
+
+[dir="rtl"] .service-page-info-section .col-md-8
+{
+   text-align: right;
+}
+
+[dir="rtl"] .service-page-info-section .col-md-7
+{
+    text-align: right;
+}
+
+[dir="rtl"] .spc-btn img:last-child
+{
+   transform: rotate(180deg);
+   margin-top: 8px;
+}
+
+[dir="rtl"] .car-finance-title
+{
+	border-image: linear-gradient(#ddcc1c 70%,#c58b0c);
+    border-right: 3px solid;
+    border-left: none;
+    border-image-slice: 1;
+}
+
+[dir="rtl"] .services-section-text h4
+{
+	border-right: 5px solid #cea612;
+	text-align: right!important;
+	border-left:none!important;
+}
+
+[dir="rtl"] .br2sf-loan{
+
+    border-left: 1px solid #fff;
+}
+
+[dir="rtl"] .mib4-first
+{
+	text-align: right;
+}
+
+[dir="rtl"]  .Send-Feedback img
+{
+    transform: rotate(180deg);
+}
+
+[dir="rtl"]  .gallery-load-more-btn img
+{
+	 transform: rotate(180deg);
+}
+
+[dir="rtl"] .news-back img
+{
+   transform: rotate(0deg)!important;
+}
+
+[dir="rtl"] .spc-btn img
+{
+	transform:rotateY(180deg);
+}
+
+[dir="rtl"] .service-page-info-section p
+{
+	text-align:right
+}
+
+[dit="rtl"] .mib4-third .row .col-md-12 p
+{
+  text-align:center !important;
+}
+
+[dir="rtl"] .contact-text p
+{
+
+	text-align:right;
+}
+
+[dir="rtl"] .contact-text h3
+{
+	text-align:right;
+}
+
+[dir="rtl"] address
+{
+	text-align:right !important;
+}
+[dir="rtl"] .br2sf-loan{
+
+    border-left: 1px solid #fff;
+}
+[dir="rtl"] .about-us-inner-text
+{
+  border-right: 4px solid transparent;
+  border-left: none;
+  border-image: linear-gradient( #ddcc1c , #c58b0c);
+  border-image-slice:1;
+  text-align:right;
+  padding-right:10px;
+}
+[dir="rtl"] .fa-angle-down
+{
+  float:right;
+  transform:rotateY(180deg);
+}
+[dir="rtl"]
+.click-el p
+{
+  cursor:pointer;
+  text-align:right;
+
+}
+
+
+  [dir="rtl"]  .top-nav-list
+  {
+    text-align:left;
+  }
+
+    [dir="rtl"] .top-nav-list ul
+  {
+    margin: 0;
+   
+    margin-left: 10px;
+  }
+  [dir="rtl"] .banner-inner-img p
+{
+   text-align:right;
+}
+[dir="rtl"] .banner-inner-img
+{
+  right:50px;
+}
+.dirrtl
+{
+  margin-top: 0!important;padding-top:0!important;
+}
+[dir="rtl"] .dirrtl
+{
+  margin-top: 0!important;padding-top:0!important;
+  text-align:right;
+}
+
+[dir="rtl"] .banner-read-more-btn
+{
+   background:#cea612;
+   color:white;
+   
+   padding-top:0px;
+   padding-right:15px;
+   padding-left:-20px;
+   border-radius: 4px;
+   color: #414141;
+   height: 35px;
+   font-size: 12px;
+   float:right;
+   text-align:right;
+}
+
+
+[dir="rtl"] .banner-read-more-btn img
+{
+   width:25% !important;
+   transform: rotateY(180deg);
+}
+
+[dir="rtl"] .news-heading h4
+{
+  padding: 10px;
+  padding-left: 20px;
+  border-left: 5px solid #cea612;
+  float:right;
+}
+[dir="rtl"] .news-title h4
+{
+  text-align:right;
+}
+[dir="rtl"] .news-date p
+{
+   text-align:right;
+}
+
+[dir="rtl"] .news-prag p
+{
+   text-align:right;
+}
+
+[dir="rtl"] .read-more img
+{
+   transform:rotateY(180deg);
+}
+
+
+[dir="rtl"] .readmorespan
+{
+  padding-left:0px !important;
+}
+[dir="rtl"] .rtlarrow
+{
+  transform:rotateY(180deg);
+}
+
+
+[dir="rtl"] .pointer
+{
+  padding-left:0px ! important;
+}
+
+[dir="rtl"] .footer-text
+{
+  text-align:right !important;
+}
+
+
+

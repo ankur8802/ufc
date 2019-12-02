@@ -122,34 +122,80 @@
 
  	<hr>
 
- 	
+
+
 
 					<div class="ab-text  mg-b-10  bg-white br-4 pd-10 pmef" id="menu-1" style="box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.21);">
-						<p class="mg-0 fz-14 font-bold">Annual Results<span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Annual Results <span class="acord-icon"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text mg-b-10 -on-click pd-5" id="menu-1-text">
-				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
-                     <div style="display:inline">
-				    <img src="assets/images/pdf.png" alt="" width="8%" class="" style="margin-top:20px">
+					<div class="ab-text mg-b-10 hide-on-click pd-5 " id="menu-1-text">
+                      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution  </p>
+                      <div class="flex">
+                     
+                     <div class="mg-10 text-center">
+                    <a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
 					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
 				   </div>
-				  <!--  <div style="display:inline">
-					<img src="assets/images/pdf.png" alt="" width="8%" class="" style="margin-top:20px"> 
-					<p class="fz-12 color-gray  mg-0" style="padding-top:20px;">Results 2015-2016</p>
+
+				   <div class="mg-10 text-center pointer">
+					<a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
+					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
 				</div>
-					<img src="assets/images/pdf.png" alt="" width="8%" class="" style="margin-top:20px"> 
-					<span class="fz-12 color-gray  mg-0" style="padding-top:20px;">Results 2015-2016</span>
-		 -->
+
+				 <div class="mg-10 text-center pointer">
+					<a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
+					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
+				</div>
+
+					
+		
+					</div>
 					</div>
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">Quaterly Results <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Quaterly Results <span  class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
-					<div class="ab-text  mg-b-10 -on-click pd-5" id="menu-2-text" style="display: none;">
-				      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution </p>
+					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-2-text" style="display: none;">
+                      <p class="mg-0 fz-12">Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution  </p>
+
+                       <div class="flex">
+                     
+                     <div class="mg-10 text-center">
+                    <a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
+					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
+				   </div>
+
+				   <div class="mg-10 text-center pointer">
+					<a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
+					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
+				</div>
+
+				 <div class="mg-10 text-center pointer">
+					<a href="#" class="a-finish" download>
+				    <img src="assets/images/pdf.png" alt="" class="" style="margin-top:20px">
+					<p class="fz-12 color-gray  mg-0" style="">Results 2015-2016</p>
+					</a>
+				</div>
+
+					
+		
 					</div>
+					</div>
+                  
+
+		
                     
 
                     

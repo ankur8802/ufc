@@ -147,7 +147,7 @@
 			</div>
 
 
-			<p class="mg-t-10 text-center" style="min-height:50px;padding-right: 8px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;">Load More <img src="assets/images/arrowr.png" alt=""></span></p>
+			<p class="mg-t-10 text-center gallery-load-more-btn" style="min-height:50px;padding-right: 8px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;">Load More <img src="assets/images/arrowr.png" alt=""></span></p>
 
 		</div>
 

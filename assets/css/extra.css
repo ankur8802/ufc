@@ -132,14 +132,6 @@
  {
   margin-top: 10px!important;
  }
- .mg-t-0
- {
-  margin-top: 0px!important;
- }
-  .mg-b-0
- {
-  margin-bottom: 0px!important;
- }
  .mg-t-20
  {
   margin-top: 20px;
@@ -402,10 +394,7 @@
     border-right: 1px solid #fff;
 }
 
-[dir="rtl"] .br2sf-loan{
 
-    border-left: 1px solid #fff;
-}
 .navbar-text-menu p a:hover
 {
    font-weight: bold!important;
@@ -558,6 +547,14 @@
   border-image: linear-gradient( #ddcc1c , #c58b0c);
   border-image-slice:1;
 }
+
+
+.fa-angle-down
+{
+  float:right;
+}
+
+
 .p92
 {
    background-image: linear-gradient(to left, #0fa1ff , #0f6ec7 , #0f58af);
@@ -569,7 +566,9 @@
 .click-el p
 {
   cursor:pointer;
+
 }
+
 
 .ab-text-bg
 {
@@ -714,6 +713,7 @@ color:white !important;
   border-radius: 6px;
   background-color: #ffffff;
 }
+
 .feedback-form-bg
 {
   background: #eff2f6;
@@ -745,3 +745,8 @@ input[type='radio']:checked:before {
   background:linear-gradient(to left, #0fa1ff , #0f6ec7 , #0f58af);
 
 }
+.acord-icon
+{
+float:right;
+}
+

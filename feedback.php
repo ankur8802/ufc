@@ -2,10 +2,10 @@
 
 <!-- <-----------------------news us banner -------------->
 <div class="container-fluid pd-l-r-24">
-	<div class="about-us-banner">
-		<img src="assets/images/about-us.jpg" alt=".." width="100%">
-	</div>
-	   <div class="text-align-mobile-center text-center pd-10 mobile-version">
+  <div class="about-us-banner">
+    <img src="assets/images/about-us.jpg" alt=".." width="100%">
+  </div>
+     <div class="text-align-mobile-center text-center pd-10 mobile-version">
                       
                       <h3 class="fz-15">Finance that matches your needs</h3>
                       <p class="fz-12">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -23,16 +23,16 @@
 
  <!-- <-----------------------page title --------------> 
  <div class="about-us-title mg-t-10">
- 	<div class="row mg-0">
- 		<div class="col-md-12 pd-l-r-24">
- 			<div class="about-us-inner-text pd-t-b-15">
- 				<div class="about-us-inner-text-mg mg-l-10">
- 			<p class="fz-12 color-gray inline">Help Us Improve <span class="color-gray fz-10"> > </span></p>
- 			<p class="fz-16 inline color-black font-bold">Feedback From</p>
- 			</div>
- 			</div>
- 		</div>
- 	</div>
+  <div class="row mg-0">
+    <div class="col-md-12 pd-l-r-24">
+      <div class="about-us-inner-text pd-t-b-15">
+        <div class="about-us-inner-text-mg mg-l-10">
+      <p class="fz-12 color-gray inline">Help Us Improve <span class="color-gray fz-10"> > </span></p>
+      <p class="fz-16 inline color-black font-bold">Feedback From</p>
+      </div>
+      </div>
+    </div>
+  </div>
  </div>
 
 <!-- <-----------------------page title end --------------> 
@@ -44,29 +44,29 @@
  <div class="mobile-menu-about-us mobile-version" id="stickThis">
  
 
- 	<ul class="mg-0 pd-0">
- 		<li class="mobile-menu-about-us-text"> Feedback From </li>
+  <ul class="mg-0 pd-0">
+    <li class="mobile-menu-about-us-text"> Feedback From </li>
     </ul>
  </div>
 </div>
 
 <div class="container-fluid pd-l-r-24 mg-t-10">
-	<div class="row mg-0 click-el">
-		<div class="col-lg-2 desktop-version pd-0 br-l-about-us-col-lg-2">
-			<div class="row">
-				<div class="col-md-12">
-			<p class="fz-12 color-white pd-5 p92 mg-0"> Help Us Improve </p>
-			</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-			<p class="color-gray font-bold mg-t-b-10-0 fz-12 pd-10 p92-active mib4-hide mib4-first-menu">Feedback From </p>
-		
-		</div>
-		</div>
-		</div>
-		<div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first">
-			<div class="row">
+  <div class="row mg-0 click-el">
+    <div class="col-lg-2 desktop-version pd-0 br-l-about-us-col-lg-2">
+      <div class="row">
+        <div class="col-md-12">
+      <p class="fz-12 color-white pd-5 p92 mg-0"> Help Us Improve </p>
+      </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+      <p class="color-gray font-bold mg-t-b-10-0 fz-12 pd-10 p92-active mib4-hide mib4-first-menu">Feedback From </p>
+    
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-10 col-md-12 col-sm-12 mib4 mib4-first">
+      <div class="row">
              
                <div class="feedback-text pd-l-80-991">
              <h5 class="mg-0 pd-10 fz-25"> Your feedback </h5>
@@ -81,8 +81,8 @@
             
             <form style="width: 100%;">
              <div class="radio-btn-feedback pd-10 pd-t-0">
-             	
-             	  
+              
+                
                  
                   <div class="form-check form-check-inline">
                      <input class="form-check-input" type="radio" id="inlineRadio1" name="comment" value="option1">
@@ -105,7 +105,7 @@
              </div>
 
              <div class="row">
-             	<div class="col-md-5">
+              <div class="col-md-5">
                     
                     <div class="form-group pd-10">
                    <label for="exampleFormControlTextarea1">Details of feedback or complaint</label>
@@ -114,20 +114,20 @@
 
                  </div>
 
-                 	<div class="col-md-5">
-             		 <div class="form-group pd-10">
+                  <div class="col-md-5">
+                 <div class="form-group pd-10">
     <label for="exampleFormControlTextarea1">What is the outcome you want?</label>
     <textarea class="form-control feedback-form-bg" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-             		
-             	</div>
+                
+              </div>
 
 
                     
                      
                  <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>What is the outcome you want?</label>
+                    <label>What is the outcome you want?</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
@@ -139,15 +139,15 @@
                      
                       
                       <div class="row">
-                      	<div class="col-md-3 col-sm-3 col-3">
-                      		<label for="exampleFormControlSelect1">Title</label>
+                        <div class="col-md-3 col-sm-3 col-3">
+                          <label for="exampleFormControlSelect1">Title</label>
                         <select class="form-control feedback-form-bg" id="exampleFormControlSelect1">
                           <option>Mr</option>
                           <option>Mrs</option>
                         </select>
                        </div>
                        <div class="col-md-9 col-sm-9 col-9">
-                       		<label for="exampleFormControlSelect1">Name</label>
+                          <label for="exampleFormControlSelect1">Name</label>
                           <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                        </div>
 
@@ -160,36 +160,36 @@
 
                  <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>Daytime telephone?</label>
+                    <label>Daytime telephone?</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
 
                 <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>Email Address</label>
+                    <label>Email Address</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
 
                 <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>House no/Building no/Wayno </label>
+                    <label>House no/Building no/Wayno </label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
 
                 <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>City</label>
+                    <label>City</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
 
                 <div class="col-md-5">
-                	
-                	 <div class="form-group">
-                	 	<div class="form-group pd-10">
+                  
+                   <div class="form-group">
+                    <div class="form-group pd-10">
                         <label for="exampleFormControlSelect1">Country</label>
                         <select class="form-control feedback-form-bg" id="exampleFormControlSelect1">
                           <option>1</option>
@@ -205,7 +205,7 @@
 
                  <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>Pin Code</label>
+                    <label>Pin Code</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
@@ -216,8 +216,8 @@
                 <div class="col-md-5">
                    <div class="form-group pd-10 mg-b-0">
 
-                   	<label for="exampleFormControlSelect1" class="fz-12">Are you a Existing customer?</label>
-                   	<br>
+                    <label for="exampleFormControlSelect1" class="fz-12">Are you a Existing customer?</label>
+                    <br>
                    
                         <div class="form-check form-check-inline">
                      <input class="form-check-input" type="radio" id="inlineRadio1" value="option1">
@@ -234,7 +234,7 @@
 
                 </div>
                 <div class="col-md-10">
-                	 <div class="form-group pd-10 pd-t-0 mg-b-0 pd-b-0">
+                   <div class="form-group pd-10 pd-t-0 mg-b-0 pd-b-0">
                     <hr style="box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);background: #fff;">
                 </div>
                     </div>
@@ -242,7 +242,7 @@
 
                   <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>Loan Number /NID no/Passport no/Car no (Any One)</label>
+                    <label>Loan Number /NID no/Passport no/Car no (Any One)</label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
@@ -250,8 +250,8 @@
                   <div class="col-md-5">
                    <div class="form-group pd-10 mg-b-0 pd-b-0">
 
-                   	<label for="exampleFormControlSelect1" class="fz-12">Have you raised this issue with the company previously?</label>
-                   	<br>
+                    <label for="exampleFormControlSelect1" class="fz-12">Have you raised this issue with the company previously?</label>
+                    <br>
                    
                         <div class="form-check form-check-inline">
                      <input class="form-check-input" type="radio" id="inlineRadio1" value="option1">
@@ -269,7 +269,7 @@
                 </div>
 
                   <div class="col-md-10">
-                	 <div class="form-group pd-10 pd-t-0 mg-b-0 pd-b-0">
+                   <div class="form-group pd-10 pd-t-0 mg-b-0 pd-b-0">
                     <hr style="box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);background: #fff;">
                 </div>
                     </div>
@@ -277,15 +277,15 @@
 
                 <div class="col-md-5">
                    <div class="form-group pd-10">
-                   	<label>Details of previous contact regarding this issue: </label>
+                    <label>Details of previous contact regarding this issue: </label>
                    <input class="form-control feedback-form-bg" type="text" placeholder="Default input">
                     </div>
                 </div>
 
             <div class="col-md-12">
                    <div class="form-group pd-10">
-                   	
-                <p class="mg-t-10" style="min-height:50px;padding-right: 8px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;">Send Feedback <img src="assets/images/arrowr.png" alt=""></span></p>
+                    
+                <p class="mg-t-10 Send-Feedback" style="min-height:50px;padding-right: 8px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;">Send Feedback <img src="assets/images/arrowr.png" alt=""></span></p>
 
             </div>
         </div>
@@ -294,28 +294,28 @@
 
 
 
-             		
-             	</div>
+                
+              </div>
 
 
              
-             	
+              
              </div>
 
              </form>
 
 
-				 
+         
 
 
-			</div>
+      </div>
 
 
-		</div>
+    </div>
 
-		</div>
+    </div>
 
-	</div>
+  </div>
 <!-- <--------------------- menu section end----------------------- -->
 
 

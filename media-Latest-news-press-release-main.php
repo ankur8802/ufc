@@ -143,7 +143,8 @@
  					Driving a car is now easier than you think with UFC’s Car Finance. For Customers interested in buying new passenger cars, 4WD vehicles or pre-owned cars, UFC has the perfect solution.UFC finances up to 80% of the purchase price at competitive interest rates to individual borrowers and upto 90% for other types of customers (Subject to satisfaction of other credit criterea).
  				</p>
 
- 				<p class="mg-t-10" style="min-height:50px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;float:left;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;"><img src="assets/images/arrowr.png" alt="" style="transform: rotate(180deg)"> Back </span></p>
+ 				<p class="mg-t-10 news-back" style="min-height:50px;"><span class="color-white fz-12 mg-t-10" style="padding:8px 11px;float:left;background-image: linear-gradient(to right, #0f58af, #106ac3, #107cd7, #0f8eeb, #0fa1ff);border-radius: 4px;margin-right: 5px;">
+ 					<img src="assets/images/arrowr.png" alt="" style="transform: rotate(180deg)"> Back </span></p>
  				
 
             

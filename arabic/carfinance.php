@@ -151,7 +151,7 @@
 				</div>
 
 					<div class="ab-text  mg-b-10  bg-white br-4 pd-10 pmef" id="menu-1" style="box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.21);">
-						<p class="mg-0 fz-14 font-bold">Question 1<span style="float:right;"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 1<span class="acord-icon"> <img class="menu-img-1" src="assets/images/minus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-1-text">
@@ -159,7 +159,7 @@
 					</div>
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-2">
-						<p class="mg-0 fz-14 font-bold">Question 2 <span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 2 <span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-2-text" style="display: none;">
@@ -168,7 +168,7 @@
                     
 
                     <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-3">
-						<p class="mg-0 fz-14 font-bold">Question 3<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 3<span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-3-text" style="display: none;">
@@ -179,7 +179,7 @@
 
 
 					 <div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-4">
-						<p class="mg-0 fz-14 font-bold">Question 4<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 4<span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text mg-b-10 hide-on-click pd-5" id="menu-4-text" style="display: none;">
@@ -188,7 +188,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-5">
-						<p class="mg-0 fz-14 font-bold">Question 5<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 5<span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-5-text" style="display: none;">
@@ -197,7 +197,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-6">
-						<p class="mg-0 fz-14 font-bold">Question 6<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 6<span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-6-text" style="display: none;">
@@ -206,7 +206,7 @@
 
 
 					<div class="ab-text ab-text-bg mg-b-10  bg-white br-4 pd-10 pmef" id="menu-7">
-						<p class="mg-0 fz-14 font-bold">Question 7<span style="float:right;"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
+						<p class="mg-0 fz-14 font-bold">Question 7<span class="acord-icon"> <img src="assets/images/plus-icon.svg" alt="" width="50%"> </span> 
 						</p>
 					</div>
 					<div class="ab-text  mg-b-10 hide-on-click pd-5" id="menu-7-text" style="display: none;">

@@ -2,10 +2,10 @@
 
 <!-- <-----------------------news us banner -------------->
 <div class="container-fluid pd-l-r-24">
-	<div class="about-us-banner">
-		<img src="assets/images/about-us.jpg" alt=".." width="100%">
-	</div>
-	   <div class="text-align-mobile-center text-center pd-10 mobile-version">
+  <div class="about-us-banner">
+    <img src="assets/images/about-us.jpg" alt=".." width="100%">
+  </div>
+     <div class="text-align-mobile-center text-center pd-10 mobile-version">
                       
                       <h3 class="fz-15">Finance that matches your needs</h3>
                       <p class="fz-12">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -23,15 +23,15 @@
 
  <!-- <-----------------------page title --------------> 
  <div class="about-us-title mg-t-10">
- 	<div class="row mg-0">
- 		<div class="col-md-12 pd-l-r-24">
- 			<div class="about-us-inner-text pd-t-b-15">
- 				<div class="about-us-inner-text-mg mg-l-10">
- 			<p class="fz-16 inline color-black font-bold">Contact Us</p>
- 			</div>
- 			</div>
- 		</div>
- 	</div>
+  <div class="row mg-0">
+    <div class="col-md-12 pd-l-r-24">
+      <div class="about-us-inner-text pd-t-b-15">
+        <div class="about-us-inner-text-mg mg-l-10">
+      <p class="fz-16 inline color-black font-bold">Contact Us</p>
+      </div>
+      </div>
+    </div>
+  </div>
  </div>
 
 <!-- <-----------------------page title end --------------> 
@@ -40,16 +40,16 @@
 <!-- <--------------------- menu section----------------------- -->
 
 <div class="container-fluid pd-l-r-24 mg-t-10">
-	<div class="row">
-		<div class="col-md-8">
+  <div class="row">
+    <div class="col-md-8">
      <div class="contact-text pd-20">
-	<h3  class="fz-25"> Contact Details </h3>
-	<p class="fz-14"> Help us improve our service to you. If you'd like to pay us a compliment or are dissatisfied with any aspect of the service you have received, please let us know.</p>
+  <h3  class="fz-25"> Contact Details </h3>
+  <p class="fz-14"> Help us improve our service to you. If you'd like to pay us a compliment or are dissatisfied with any aspect of the service you have received, please let us know.</p>
    
    <div class="row">
-   	<div class="col-md-5 contact-box-shadow pd-10 pd-l-15">
-   		<address class="mg-0">
-   	    	<span class="fz-13">Customer Relations:</span><br>
+    <div class="col-md-5 contact-box-shadow pd-10 pd-l-15">
+      <address class="mg-0">
+          <span class="fz-13">Customer Relations:</span><br>
 
         <span class="font-bold fz-13"> United finance company<br>
          P.O Box 3652,P.C 112,Ruwi<br>
@@ -58,9 +58,9 @@
          <span>Tel:<span class="font-bold fz-14"> (+968)24561841</span> </span><br><br>
          <a href="#"><span class="fz-14">Email:</span><span class="font-bold fz-14"> ufc@ufcoman.com</span></a>
         </address>
-   	</div>
+    </div>
     <div class="col-md-1"></div>
-   	<div class="col-md-5">
+    <div class="col-md-5">
       <div class=" contact-box-shadow pd-10 pd-l-15">
       <address class="mg-0">
 
@@ -78,7 +78,7 @@
    </div>
 
 
-	</div>
+  </div>
 </div>
 
 </div>
@@ -144,7 +144,7 @@
 </div>
 
 </div>
-		</div>
+    </div>
 
 <div class="container-fluid pd-l-r-24 mg-t-10">
 
