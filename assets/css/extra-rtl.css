@@ -293,5 +293,14 @@ float:left;
   text-align:right !important;
 }
 
+[dir="rtl"] .modal-header
+{
+	direction: ltr;
+}
+
+[dir="rtl"] .modal-body
+{
+	text-align: right;
+}
 
 
