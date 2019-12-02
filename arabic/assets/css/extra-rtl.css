@@ -1,3 +1,9 @@
+  
+  [dir="rtl"] .text-right-rtl
+  {
+     text-align: right;
+  }
+  
 [dir="rtl"] .box-inner-img
 {
 	margin-right: 32%;
@@ -34,4 +40,36 @@
 [dir="rtl"] .bd-example
 {
 	margin-top: -20px;
+}
+
+[dir="rtl"] .services-banner-inner-img
+{
+	right: 50px;
+}
+[dir="rtl"] .inner-news-page-title h4
+{
+   text-align: right;
+}
+
+[dir="rtl"] .pagination img
+{
+   transform: rotate(180deg);
+}
+
+[dir="rtl"] .read-more span 
+{
+	padding-left: 0px!important;
+}
+[dir="rtl"] .fa-calendar-alt
+{
+	margin-left: 5px;
+}
+
+[dir="rtl"] .about-banner-inner-img p
+{
+	text-align: right;
+}
+[dir="rtl"] .about-banner-inner-img
+{
+	right: 50px;
 }

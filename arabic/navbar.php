@@ -52,7 +52,7 @@
  
 
  <!-- <---------------------------------------temo nav---------------------- -->
-   <div class="wsmobileheader clearfix ">
+   <div class="wsmobileheader clearfix " style="direction:ltr;">
     <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
     <span class="smllogo"> <a href="index.php"><img src="assets/images/logo.jpg" alt=""> </a> </span>
     <a href="tel:123456789" class="callusbtn"><button class="li-active li-active-btn">Log In</button></a>
