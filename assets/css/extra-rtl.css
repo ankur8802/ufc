@@ -6,45 +6,45 @@
   
 [dir="rtl"] .box-inner-img
 {
-	margin-right: 32%;
+  margin-right: 32%;
 }
 
 @media only screen and (max-width:1100px)
 {
-	[dir="rtl"] .box-inner-img
-	{
-		 margin-right: 28%;
-	}
+  [dir="rtl"] .box-inner-img
+  {
+     margin-right: 28%;
+  }
 
 }
 
 [dir="rtl"] .owl-item
 {
-	visibility: hidden;
+  visibility: hidden;
 }
 [dir="rtl"] .owl-item.active
 {
-	visibility: visible;
+  visibility: visible;
 }
 
 [dir="rtl"] .dr-rtl
 {
-	display: flex;
-	flex-direction: row-reverse;
-	padding-left: 14px;
+  display: flex;
+  flex-direction: row-reverse;
+  padding-left: 14px;
 }
 [dir="rtl"] .dr-rtl img
 {
-	transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 [dir="rtl"] .bd-example
 {
-	margin-top: -20px;
+  margin-top: -20px;
 }
 
 [dir="rtl"] .services-banner-inner-img
 {
-	right: 50px;
+  right: 50px;
 }
 [dir="rtl"] .inner-news-page-title h4
 {
@@ -58,20 +58,20 @@
 
 [dir="rtl"] .read-more span 
 {
-	padding-left: 0px!important;
+  padding-left: 0px!important;
 }
 [dir="rtl"] .fa-calendar-alt
 {
-	margin-left: 5px;
+  margin-left: 5px;
 }
 
 [dir="rtl"] .about-banner-inner-img p
 {
-	text-align: right;
+  text-align: right;
 }
 [dir="rtl"] .about-banner-inner-img
 {
-	right: 50px;
+  right: 50px;
 }
 
 
@@ -99,7 +99,7 @@ float:left;
 
 [dir="rtl"] .car-finance-title
 {
-	border-image: linear-gradient(#ddcc1c 70%,#c58b0c);
+  border-image: linear-gradient(#ddcc1c 70%,#c58b0c);
     border-right: 3px solid;
     border-left: none;
     border-image-slice: 1;
@@ -107,19 +107,16 @@ float:left;
 
 [dir="rtl"] .services-section-text h4
 {
-	border-right: 5px solid #cea612;
-	text-align: right!important;
-	border-left:none!important;
+  border-right: 5px solid #cea612;
+  text-align: right!important;
+  border-left:none!important;
 }
 
-[dir="rtl"] .br2sf-loan{
 
-    border-left: 1px solid #fff;
-}
 
 [dir="rtl"] .mib4-first
 {
-	text-align: right;
+  text-align: right;
 }
 
 [dir="rtl"]  .Send-Feedback img
@@ -129,7 +126,7 @@ float:left;
 
 [dir="rtl"]  .gallery-load-more-btn img
 {
-	 transform: rotate(180deg);
+   transform: rotate(180deg);
 }
 
 [dir="rtl"] .news-back img
@@ -139,12 +136,12 @@ float:left;
 
 [dir="rtl"] .spc-btn img
 {
-	transform:rotateY(180deg);
+  transform:rotateY(180deg);
 }
 
 [dir="rtl"] .service-page-info-section p
 {
-	text-align:right
+  text-align:right
 }
 
 [dit="rtl"] .mib4-third .row .col-md-12 p
@@ -155,22 +152,23 @@ float:left;
 [dir="rtl"] .contact-text p
 {
 
-	text-align:right;
+  text-align:right;
 }
 
 [dir="rtl"] .contact-text h3
 {
-	text-align:right;
+  text-align:right;
 }
 
 [dir="rtl"] address
 {
-	text-align:right !important;
+  text-align:right !important;
 }
 [dir="rtl"] .br2sf-loan{
 
     border-left: 1px solid #fff;
 }
+
 [dir="rtl"] .about-us-inner-text
 {
   border-right: 4px solid transparent;
@@ -295,12 +293,111 @@ float:left;
 
 [dir="rtl"] .modal-header
 {
-	direction: ltr;
+  direction: ltr;
 }
 
 [dir="rtl"] .modal-body
 {
-	text-align: right;
+  text-align: right;
+}
+
+[dir="rtl"] .wsmobileheader 
+{
+  transform:rotate(180deg);
+}
+[dir="rtl"] .callusbtn
+{
+  transform:rotate(180deg);
+}
+
+[dir="rtl"] .smllogo
+{
+   transform:rotate(180deg);
+}
+[dir="rtl"] .wsanimated-arrow
+{
+  transform:rotate(180deg);
+}
+
+[dir="rtl"] .wsmenu 
+{
+  right: 0;
+}
+[dir="rtl"] .overlapblackbg
+{
+  left: 0;
+}
+
+@media only screen and (max-width: 991px)
+
+{
+  [dir="rtl"] .overlapblackbg
+{
+  left: 0;
+  right: auto;
+}
+ [dir="rtl"]  .wsactive .wsmenu>.wsmenu-list
+ {
+  margin-right: 0;
+ }
+ 
+ [dir="rtl"] .wsmenu>.wsmenu-list
+ {
+  margin-right: -240px;
+  margin-top: 54px;
+ }
+
+[dir="rtl"] .wsactive .wsmobileheader
+{
+  margin-right: 240px;
+  margin-left: 0px;
+  /*width: 75.5%;*/
+}
+[dir="rtl"] .wsmenu>.wsmenu-list>li>.wsmenu-click>i
+{
+   float: left;
+   margin-left: 10px;
+}
+[dir="rtl"] .inner-navtext h4
+{
+  text-align: right!important;
+}
+[dir="rtl"] .link-list p
+{
+  text-align: right;
 }
 
 
+
+}
+[dir="rtl"] .services-section-img
+{
+  direction: ltr;
+}
+[dir="rtl"] .br1sf-loan
+{
+  border-left: 1px solid #fff;
+  border-right: none;
+}
+
+@media only screen and (max-width: 575px)
+{
+   [dir="rtl"] .br1sf-loan 
+           {
+  
+             border-left:none;
+           }
+     
+}
+
+
+@media only screen and (max-width: 580px)
+{
+  [dir="rtl"] .inner-banner .banner-read-more-btn
+  {
+  
+
+    float:none;
+    text-align:center;
+  }
+}

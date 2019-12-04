@@ -50,7 +50,7 @@
       <div class="mobile-version col-md-12 bg-hsbc">
       <div class="row text-center">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 pd-20 pb-0-700">
-          <div class=" br2sf-loan">
+          <div class=" br1sf-loan">
             <div class="row">
               <div class="col-md-3 col-sm-3 tc-575">
                 <img src="assets/images/loan-calculator.svg" alt="" class="wd-10-575 wd-90-992">
@@ -136,7 +136,7 @@
         
                <div class="col-md-12 col-sm-12">
       <div class="inner-col-md-3 box-shadow-3 box-shadow-3-mobile pd-10">
-      <div class="services-section-img">
+      <div class="services-section-img text-center">
         <div class="box-inner-img"> <img src="assets/images/car-finance.svg"></div>
       </div>
       <div class="services-section-text">

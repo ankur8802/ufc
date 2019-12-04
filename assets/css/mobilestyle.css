@@ -101,12 +101,6 @@ top:-25px!important;
 
 }
 
-@media (max-width:1200px) and (min-width:768px) {
-.flex-colum-mobile
-{
-  flex-direction: column;
-}
-
 
 }
 
@@ -150,38 +144,10 @@ top:-25px!important;
    }
 }
 
-@media only screen and (min-width: 580px) {
 
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-10px;
-   }
-}
 
-@media only screen and (min-width: 528px) {
 
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-13px;
-   }
-}
 
-@media only screen and (min-width: 502px) {
-
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-11px;
-
-   }
-}
-
-@media only screen and (min-width: 448px) {
-
-    [dir="rtl"] .box-inner-img
-   {
-    margin-top:-10px;
-  
-   }
 
 @media only screen and (max-width: 991px) {
     
@@ -194,11 +160,7 @@ top:-25px!important;
     top: -22%
    }
 
-   [dir="rtl"]  .services-section-slider .box-inner-img
-   {
-    top: -16%
-   }
-
+  
     .hide-nav
     {
       display: none;
@@ -398,21 +360,6 @@ top:-25px!important;
   }
 
 
-  @media only screen and (max-width: 580px) and (min-width:250px)
-  {
-    
-    .hsbc-version
-    {
-      display: block!important;
-
-    }
-    .tab-img
-    {
-      display: none;
-    }
-
-
-  }
 
    .hsbc-version
           {
@@ -495,7 +442,8 @@ top:-25px!important;
             border-bottom: 1px solid #fff;
             border-right: none;
            }
-     
+
+          
 
 
        }

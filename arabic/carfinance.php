@@ -11,7 +11,7 @@
                       
                       <h3 class="fz-15">Finance that matches your needs</h3>
                       <p class="fz-12">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                      <a href="#" class="banner-read-more-btn block height-auto fz-12 color-white" style="color:#fff!important;">Read more</a>
+                      <a href="#" class="banner-read-more-btn-error block height-auto fz-12 color-white" style="color:#fff!important;">Read more</a>
           
                      </div>
           
