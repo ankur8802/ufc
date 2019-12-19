@@ -4,7 +4,7 @@
 <div class="banner mg-t-5 mg-t-29-m">
   <div class="container-fluid pd-25 pd-t-0 pd-0-on-m">
     <div class="row row-mobile mg-0">
-      <div class="col-lg-9 col-md-12 mobile-mgb-10 pd-l-0 fwom">
+      <div class="col-lg-9 col-md-12 mobile-mgb-10 fwom">
         <div class="inner-banner">
          
 
